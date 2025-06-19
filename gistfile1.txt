@@ -55,7 +55,7 @@
 },
   {
     "listTitle": "Best Sci-Fi Movies",
-    "listSystemImage": "rocket.fill",
+    "listSystemImage": "testtube.2",
     "listColorHex": "007BFF",
     "displayOrder": 7,
     "movieIMDbIDs": [
@@ -76,7 +76,7 @@
     },
     {
       "listTitle": "Must-Watch Horror Films",
-      "listSystemImage": "eyebrows",
+      "listSystemImage": "drop.triangle",
       "listColorHex": "8B0000",
       "displayOrder": 9,
       "movieIMDbIDs": [
@@ -305,7 +305,7 @@
   },
   {
     "listTitle": "BAFTA Best Film Winners",
-    "listSystemImage": "mask.fill",
+    "listSystemImage": "medal",
     "listColorHex": "34568B",
     "displayOrder": 34,
     "movieIMDbIDs": [
