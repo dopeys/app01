@@ -63,8 +63,6 @@
     ]
 },
   {
-  "lists": [
-    {
       "listTitle": "Top Psychological Thrillers",
       "listSystemImage": "lock.shield.fill",
       "listColorHex": "2C3E50",
@@ -115,8 +113,6 @@
       ]
     },
   {
-  "lists": [
-    {
       "listTitle": "Great Animated Films",
       "listSystemImage": "wand.and.stars",
       "listColorHex": "1E90FF",
