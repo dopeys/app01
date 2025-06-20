@@ -115,50 +115,65 @@
       ]
     },
   {
-    "listTitle": "Great Animated Films",
-    "listSystemImage": "wand.and.stars",
-    "listColorHex": "1E90FF",
-    "displayOrder": 13,
-    "movieIMDbIDs": [
-      "tt0245429", "tt9484998", "tt2380307", "tt0110357", "tt0095327", "tt0119698", "tt0910970", "tt0114709", "tt0094625", "tt0435761", "tt0317705", "tt0083922", "tt0096283", "tt2096673", "tt4729430", "tt0268093", "tt0469494", "tt0892769", "tt1318514", "tt1453405", "tt2294629", "tt3470634", "tt4123430", "tt5273188", "tt7131622", "tt8946378", "tt9695406", "tt1049413", "tt0116483", "tt0120630"
-    ]
-  },
-  {
-    "listTitle": "Based on True Stories",
-    "listSystemImage": "book.fill",
-    "listColorHex": "A0522D",
-    "displayOrder": 14,
-    "movieIMDbIDs": [
-      "tt0108052", "tt2024544", "tt1066442", "tt1895587", "tt0253474", "tt0264464", "tt0080479", "tt0455590", "tt0099685", "tt15398776", "tt1028532", "tt1658820", "tt1504320", "tt1399103", "tt1210166", "tt1836290", "tt2103281", "tt3741834", "tt5094116", "tt1798709", "tt0319061", "tt0477348", "tt0800369", "tt0395169", "tt0086250", "tt0112431", "tt0388482", "tt0074119", "tt0387538", "tt0418753"
-    ]
-  },
-  {
-    "listTitle": "Top Book-to-Film Adaptations",
-    "listSystemImage": "bookmark.fill",
-    "listColorHex": "8B4513",
-    "displayOrder": 15,
-    "movieIMDbIDs": [
-      "tt0167260", "tt0068646", "tt0102926", "tt0137523", "tt0073195", "tt0056605", "tt0112471", "tt1201607", "tt0111161", "tt0073486", "tt0083658", "tt0109830", "tt0066921", "tt0382932", "tt0338013", "tt1104001", "tt2267998", "tt0469494", "tt0455967", "tt1598778", "tt0317248", "tt0093779", "tt0057012", "tt0241527", "tt0299658", "tt0325980", "tt0418279", "tt0440963", "tt0455824", "tt0465551"
-    ]
-  },
-  {
-    "listTitle": "Christopher Nolan Collection",
-    "listSystemImage": "camera.filters",
-    "listColorHex": "2C3E50",
-    "displayOrder": 16,
-    "movieIMDbIDs": [
-      "tt0154506", "tt0209144", "tt0278504", "tt0372784", "tt0482571", "tt0468569", "tt1375666", "tt1345836", "tt0816692", "tt5013056", "tt6723592", "tt15398776"
-    ]
-  },
-  {
-    "listTitle": "Martin Scorsese's Crime Films",
-    "listSystemImage": "briefcase.fill",
-    "listColorHex": "708090",
-    "displayOrder": 17,
-    "movieIMDbIDs": [
-      "tt0062402", "tt0069818", "tt0069947", "tt0075314", "tt0081398", "tt0099685", "tt0101540", "tt0112641", "tt0265844", "tt0407887", "tt0993846", "tt1302006", "tt5537002"
-    ]
-  },
+  "lists": [
+    {
+      "listTitle": "Great Animated Films",
+      "listSystemImage": "wand.and.stars",
+      "listColorHex": "1E90FF",
+      "displayOrder": 13,
+      "movieIMDbIDs": [
+        "tt0245429", "tt2380307", "tt0110357", "tt0095327", "tt0119698", "tt0910970", "tt0114709", "tt0094625", "tt0435761", "tt0317705", 
+        "tt0096283", "tt2096673", "tt4729430", "tt0892769", "tt1318514", "tt1453405", "tt2294629", "tt1049413", "tt0120630", "tt3470600",
+        "tt0120363", "tt0266543", "tt0126029", "tt0382932", "tt2948356", "tt3521164", "tt1490017", "tt4633694", "tt0101414", "tt0103639",
+        "tt0097757", "tt0029583", "tt0032910", "tt0033563", "tt0034492", "tt0042332", "tt0046183", "tt0048280", "tt0053285", "tt0055254",
+        "tt0061852", "tt0065421", "tt0070608", "tt0076363", "tt0076618", "tt0082406", "tt0088814", "tt0091149", "tt0095776", "tt0120762"
+      ]
+    },
+    {
+      "listTitle": "Based on True Stories",
+      "listSystemImage": "book.fill",
+      "listColorHex": "A0522D",
+      "displayOrder": 14,
+      "movieIMDbIDs": [
+        "tt0108052", "tt2024544", "tt1674773", "tt1895587", "tt0253474", "tt0264464", "tt0080479", "tt0455590", "tt0099685", "tt15398776",
+        "tt1028532", "tt1658820", "tt1504320", "tt1399103", "tt1210166", "tt2103281", "tt3741834", "tt5094116", "tt0074119", "tt0418753",
+        "tt2084970", "tt1285016", "tt1024648", "tt0443272", "tt2980516", "tt1020072", "tt3682448", "tt1663202", "tt2119532", "tt4555426",
+        "tt1727824", "tt6966692", "tt1950186", "tt8579674", "tt9784798", "tt1070874", "tt10618286", "tt9770150", "tt0268978", "tt0112384",
+        "tt0878804", "tt1535109", "tt3263904", "tt6294822", "tt0405094", "tt0993846", "tt1396484", "tt1707386", "tt1979320", "tt2582802"
+      ]
+    },
+    {
+      "listTitle": "Top Book-to-Film Adaptations",
+      "listSystemImage": "bookmark.fill",
+      "listColorHex": "8B4513",
+      "displayOrder": 15,
+      "movieIMDbIDs": [
+        "tt0167260", "tt0068646", "tt0102926", "tt0137523", "tt0073195", "tt0056605", "tt1201607", "tt0111161", "tt0073486", "tt0083658",
+        "tt0109830", "tt0066921", "tt2267998", "tt0455967", "tt0317248", "tt0093779", "tt0057012", "tt0241527", "tt0299658", "tt0440963",
+        "tt0465551", "tt0120737", "tt0167261", "tt0304141", "tt1392170", "tt1343092", "tt0454876", "tt3659388", "tt0120689", "tt0298148",
+        "tt0101414", "tt0103639", "tt0097757", "tt0371746", "tt0126029", "tt0816692", "tt1396484", "tt1285016", "tt1790885", "tt1853728",
+        "tt1596363", "tt1798709", "tt2245081", "tt1951264", "tt1951265", "tt1951266", "tt2361509", "tt2543164", "tt3183660", "tt3799694"
+      ]
+    },
+    {
+      "listTitle": "Christopher Nolan Collection",
+      "listSystemImage": "camera.filters",
+      "listColorHex": "2C3E50",
+      "displayOrder": 16,
+      "movieIMDbIDs": [
+        "tt0154506", "tt0209144", "tt0278504", "tt0372784", "tt0482571", "tt0468569", "tt1375666", "tt1345836", "tt0816692", "tt5013056",
+        "tt6723592", "tt15398776"
+      ]
+    },
+    {
+      "listTitle": "Martin Scorsese's Crime Films",
+      "listSystemImage": "briefcase.fill",
+      "listColorHex": "708090",
+      "displayOrder": 17,
+      "movieIMDbIDs": [
+        "tt0069818", "tt0075314", "tt0099685", "tt0101540", "tt0112641", "tt0265844", "tt0407887", "tt0993846", "tt5537002"
+      ]
+    },
   {
     "listTitle": "For Tarantino Fans",
     "listSystemImage": "quote.bubble.fill",
