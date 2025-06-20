@@ -171,50 +171,66 @@
       ]
     },
   {
-    "listTitle": "For Tarantino Fans",
-    "listSystemImage": "quote.bubble.fill",
-    "listColorHex": "E6D500",
-    "displayOrder": 18,
-    "movieIMDbIDs": [
-      "tt0105236", "tt0110912", "tt0060196", "tt0070328", "tt0092106", "tt0072890", "tt0119396", "tt0259711", "tt0063462", "tt0065724", "tt0071360", "tt0074252", "tt0075843", "tt0082398", "tt0086250", "tt0094073", "tt0101841", "tt0105695", "tt0110857", "tt0111495", "tt0114734", "tt0120082", "tt0181875", "tt0206634", "tt0219854", "tt0281686", "tt0330771", "tt0378194", "tt0389722", "tt0425210"
-    ]
-  },
-  {
-    "listTitle": "Pedro Almodóvar's Vibrant Dramas",
-    "listSystemImage": "paintpalette.fill",
-    "listColorHex": "E3001B",
-    "displayOrder": 19,
-    "movieIMDbIDs": [
-      "tt0215750", "tt0275469", "tt0441909", "tt1216492", "tt2268016", "tt0096016", "tt12243224", "tt0101410", "tt0093389", "tt0099145", "tt0107314", "tt0113082", "tt0118837", "tt0355603", "tt0976192", "tt1567247", "tt2113620", "tt0085461", "tt0088365", "tt0090885", "tt0083248", "tt0080349"
-    ]
-  },
-  {
-    "listTitle": "Meryl Streep's Best Performances",
-    "listSystemImage": "person.fill.viewfinder",
-    "listColorHex": "C0C0C0",
-    "displayOrder": 20,
-    "movieIMDbIDs": [
-      "tt0084707", "tt0079417", "tt0388983", "tt1320253", "tt1014759", "tt0089755", "tt0112584", "tt2287847", "tt0077416", "tt0268126", "tt0328972", "tt0352243", "tt0412042", "tt0804553", "tt1185834", "tt1597787", "tt2024432", "tt3095368", "tt4196776", "tt0086273", "tt0091187", "tt0095124", "tt0104070", "tt0110997", "tt0118698", "tt0173624", "tt0268978", "tt0315327", "tt0427944", "tt0482571"
-    ]
-  },
-  {
-    "listTitle": "Masterpieces of Japanese Cinema",
-    "listSystemImage": "sun.max.fill",
-    "listColorHex": "BC002D",
-    "displayOrder": 21,
-    "movieIMDbIDs": [
-      "tt0047478", "tt0046438", "tt0042876", "tt0056111", "tt0045152", "tt0245429", "tt0055630", "tt0094625", "tt0047528", "tt0049871", "tt0051251", "tt0052310", "tt0053241", "tt0054047", "tt0056443", "tt0057565", "tt0058625", "tt0060959", "tt0064993", "tt0089881", "tt0095327", "tt0119698", "tt0213338", "tt0259711", "tt0352597", "tt0424216", "tt0454824", "tt0989828", "tt1590095", "tt1927084"
-    ]
-  },
-  {
-    "listTitle": "Milestones of Turkish Cinema",
-    "listSystemImage": "moon.stars.fill",
-    "listColorHex": "E30A17",
-    "displayOrder": 22,
-    "movieIMDbIDs": [
-      "tt0084934", "tt3089630", "tt1827487", "tt0116231", "tt0476735", "tt0281358", "tt0093581", "tt0060965", "tt0108253", "tt0088034", "tt0297690", "tt0082534", "tt0066479", "tt0425094", "tt1507059", "tt1041118", "tt0092542", "tt0058614", "tt0118021", "tt0289142", "tt0101281", "tt0178332", "tt0808244", "tt1151745", "tt0181822", "tt1693122", "tt0062402", "tt0090287", "tt1221008", "tt13555928"
-    ]
-  },
+      "listTitle": "For Tarantino Fans",
+      "listSystemImage": "quote.bubble.fill",
+      "listColorHex": "E6D500",
+      "displayOrder": 18,
+      "movieIMDbIDs": [
+        "tt0105236", "tt0110912", "tt0119396", "tt0266697", "tt0378194", "tt1028528", "tt0361748", "tt1853728", "tt3460252", "tt7131622",
+        "tt0108399", "tt0116367", "tt0060196", "tt0065724", "tt0072890", "tt0071360", "tt0074252", "tt0086250", "tt0094073", "tt0101841",
+        "tt0105695", "tt0110857", "tt0281686", "tt0330771", "tt0425210", "tt0092106", "tt0063462", "tt0111495", "tt0114734", "tt0219854",
+        "tt0181875", "tt0266308", "tt0118749", "tt0106677", "tt0137523", "tt0133093", "tt0365748", "tt0111257", "tt0217862", "tt0078788",
+        "tt0074285", "tt0073195", "tt0075314", "tt0057115", "tt0053221", "tt0082085", "tt0068646", "tt0076759", "tt0082971", "tt0246578"
+      ]
+    },
+    {
+      "listTitle": "Pedro Almodóvar's Vibrant Dramas",
+      "listSystemImage": "paintpalette.fill",
+      "listColorHex": "E3001B",
+      "displayOrder": 19,
+      "movieIMDbIDs": [
+        "tt0215750", "tt0275469", "tt0441909", "tt1216492", "tt2268016", "tt0096016", "tt12243224", "tt0101410", "tt0093389", "tt0099145",
+        "tt0107314", "tt0113082", "tt0118837", "tt0355603", "tt0976192", "tt1567247", "tt2113620", "tt0085461", "tt0088365", "tt0090885",
+        "tt0083248", "tt0080349"
+      ]
+    },
+    {
+      "listTitle": "Meryl Streep's Best Performances",
+      "listSystemImage": "person.fill.viewfinder",
+      "listColorHex": "C0C0C0",
+      "displayOrder": 20,
+      "movieIMDbIDs": [
+        "tt0084707", "tt0079417", "tt0388983", "tt1320253", "tt1014759", "tt0089755", "tt0112584", "tt2287847", "tt0077416", "tt0268126",
+        "tt0328972", "tt0352243", "tt0412042", "tt0804553", "tt1185834", "tt1597787", "tt2024432", "tt3095368", "tt4196776", "tt0086273",
+        "tt0091187", "tt0095124", "tt0104070", "tt0110997", "tt0118698", "tt0173624", "tt0268978", "tt0315327", "tt0427944", "tt0086518"
+      ]
+    },
+    {
+      "listTitle": "Masterpieces of Japanese Cinema",
+      "listSystemImage": "sun.max.fill",
+      "listColorHex": "BC002D",
+      "displayOrder": 21,
+      "movieIMDbIDs": [
+        "tt0047478", "tt0046438", "tt0042876", "tt0056111", "tt0045152", "tt0245429", "tt0055630", "tt0094625", "tt0047528", "tt0049871",
+        "tt0051251", "tt0052310", "tt0053241", "tt0054047", "tt0056443", "tt0057565", "tt0058625", "tt0060959", "tt0064993", "tt0089881",
+        "tt0095327", "tt0119698", "tt0213338", "tt0259711", "tt0352597", "tt0424216", "tt0454824", "tt0989828", "tt1590095", "tt1927084",
+        "tt0046478", "tt0041154", "tt0050613", "tt0059626", "tt0051808", "tt0047445", "tt0058430", "tt0058279", "tt0059817", "tt0060471",
+        "tt0123948", "tt0165078", "tt0243876", "tt0286751", "tt0938341", "tt2331143", "tt3850590", "tt4262980", "tt9426210", "tt11032374"
+      ]
+    },
+    {
+      "listTitle": "Milestones of Turkish Cinema",
+      "listSystemImage": "moon.stars.fill",
+      "listColorHex": "E30A17",
+      "displayOrder": 22,
+      "movieIMDbIDs": [
+        "tt0084934", "tt3089630", "tt1827487", "tt0116231", "tt0476735", "tt0281358", "tt0093581", "tt0060965", "tt0108253", "tt0088034",
+        "tt0297690", "tt0082534", "tt0066479", "tt0425094", "tt1507059", "tt1041118", "tt0092542", "tt0058614", "tt0118021", "tt0289142",
+        "tt0101281", "tt0178332", "tt0808244", "tt1151745", "tt0181822", "tt1693122", "tt0062402", "tt0090287", "tt1221008", "tt13555928",
+        "tt0057843", "tt0066492", "tt0078233", "tt0090366", "tt0256415", "tt2758880", "tt6316138", "tt0093630", "tt0168504", "tt0274253",
+        "tt0498097", "tt1233241", "tt6628102", "tt10431500", "tt0076709", "tt0082086", "tt0089990", "tt0093051", "tt0100680", "tt0119086"
+      ]
+    },
   {
     "listTitle": "Best of French Cinema",
     "listSystemImage": "camera.macro",
