@@ -198,7 +198,7 @@
     ]
   },
   {
-    "listTitle": "Fransız Sinemasının Zirvesi: 50 Ölümsüz Başyapıt (1930-2013)",
+    "listTitle": "Best of French Cinema",
     "listSystemImage": "camera.macro",
     "listColorHex": "0055A4",
     "displayOrder": 23,
@@ -207,7 +207,7 @@
     ]
   },
   {
-    "listTitle": "Bollywood Essentials: Tarihin, Kültürün ve Başyapıtların 50 İkonik Filmi",
+    "listTitle": "Bollywood Essentials",
     "listSystemImage": "music.mic",
     "listColorHex": "FF9933",
     "displayOrder": 24,
@@ -234,7 +234,7 @@
     ]
   },
   {
-    "listTitle": "1990'lar Sinemasının Dönüm Noktası: 50 Etkili Film",
+    "listTitle": "Best of the 1990s",
     "listSystemImage": "dial.min.fill",
     "listColorHex": "9400D3",
     "displayOrder": 27,
