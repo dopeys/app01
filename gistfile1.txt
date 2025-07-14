@@ -45,1483 +45,309 @@
     ]
   },
   {
-  "listTitle": "Mind-Bending Movies",
-  "listSystemImage": "brain.head.profile",
-  "listColorHex": "8A2BE2",
-  "displayOrder": 6,
-  "movieIMDbIDs": [
-    "tt0133093",   // The Matrix (1999)
-    "tt1375666",   // Inception (2010)
-    "tt0209144",   // Memento (2000)
-    "tt0338013",   // Eternal Sunshine of the Spotless Mind (2004)
-    "tt0246578",   // Donnie Darko (2001)
-    "tt0166924",   // Mulholland Dr. (2001)
-    "tt0482571",   // The Prestige (2006)
-    "tt0390384",   // Primer (2004)
-    "tt0114814",   // The Usual Suspects (1995)
-    "tt0816692",   // Interstellar (2014)
-    "tt0167404",   // The Sixth Sense (1999)
-    "tt0119174",   // The Game (1997)
-    "tt0407887",   // The Departed (2006)
-    "tt0180093",   // Requiem for a Dream (2000)
-    "tt0169547",   // American Beauty (1999)
-    "tt0364569",   // Oldboy (2003)
-    "tt0137523",   // Fight Club (1999)
-    "tt0116922",   // Lost Highway (1997)
-    "tt0268978",   // A Beautiful Mind (2001)
-    "tt0134734",   // American History X (1998)
-    "tt0076759",   // Star Wars: Episode IV - A New Hope (1977)
-    "tt0078748",   // Alien (1979)
-    "tt0082971",   // Raiders of the Lost Ark (1981)
-    "tt0099685",   // Goodfellas (1990)
-    "tt0102926",   // The Silence of the Lambs (1991)
-    "tt0105236",   // Reservoir Dogs (1992)
-    "tt0112471",   // Before Sunrise (1995)
-    "tt0118715",   // The Big Lebowski (1998)
-    "tt0120737",   // The Lord of the Rings: The Fellowship of the Ring (2001)
-    "tt0120689",   // The Green Mile (1999)
-    "tt0120586",   // American History X (1998)
-    "tt0119217",   // Good Will Hunting (1997)
-    "tt0119488",   // L.A. Confidential (1997)
-    "tt0113277",   // Heat (1995)
-    "tt0112573",   // Braveheart (1995)
-    "tt0108052",   // Schindler's List (1993)
-    "tt0105695",   // Unforgiven (1992)
-    "tt0095765",   // Cinema Paradiso (1988)
-    "tt0087843",   // Once Upon a Time in America (1984)
-    "tt0086190",   // Star Wars: Episode VI - Return of the Jedi (1983)
-    "tt0075314",   // Taxi Driver (1976)
-    "tt0062622",   // 2001: A Space Odyssey (1968)
-    "tt0066921",   // A Clockwork Orange (1971)
-    "tt0057012",   // Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)
-    "tt0053125",   // North by Northwest (1959)
-    "tt0043014",   // Sunset Blvd. (1950)
-    "tt0034583",   // Casablanca (1942)
-    "tt0017136",   // Metropolis (1927)
-    "tt0076759",   // Star Wars: Episode IV - A New Hope (1977)
-    "tt0088763"    // Back to the Future (1985)
-  ]
-},
+    "listTitle": "Mind-Bending Movies",
+    "listSystemImage": "brain.head.profile",
+    "listColorHex": "8A2BE2",
+    "displayOrder": 6,
+    "movieIMDbIDs": [
+      "tt0133093", "tt1375666", "tt0209144", "tt0338013", "tt0246578", "tt0166924", "tt0482571", "tt0390384", "tt0114814", "tt0816692", "tt0167404", "tt0119174", "tt0407887", "tt0180093", "tt0169547", "tt0364569", "tt0137523", "tt0116922", "tt0268978", "tt0134734", "tt0076759", "tt0078748", "tt0082971", "tt0099685", "tt0102926", "tt0105236", "tt0112471", "tt0118715", "tt0120737", "tt0120689", "tt0120586", "tt0119217", "tt0119488", "tt0113277", "tt0112573", "tt0108052", "tt0105695", "tt0095765", "tt0087843", "tt0086190", "tt0075314", "tt0062622", "tt0066921", "tt0057012", "tt0053125", "tt0043014", "tt0034583", "tt0017136", "tt0076759", "tt0088763"
+    ]
+  },
   {
     "listTitle": "Best Sci-Fi Movies of All Time",
     "listSystemImage": "testtube.2",
     "listColorHex": "007BFF",
     "displayOrder": 7,
     "movieIMDbIDs": [
-        "tt0062622",   // 2001: A Space Odyssey (1968) :cite[1]:cite[2]:cite[3]
-        "tt0133093",   // The Matrix (1999) :cite[1]:cite[2]
-        "tt1375666",   // Inception (2010) :cite[1]:cite[2]
-        "tt0816692",   // Interstellar (2014) :cite[1]
-        "tt0076759",   // Star Wars (1977) :cite[1]:cite[2]
-        "tt0080684",   // Star Wars: Episode V - The Empire Strikes Back (1980) :cite[1]
-        "tt0088763",   // Back to the Future (1985) :cite[1]:cite[2]
-        "tt0075860",   // Close Encounters of the Third Kind (1977) - *Empire listesinde örtük, temsilen eklendi*
-        "tt0086190",   // Star Wars: Episode VI - Return of the Jedi (1983) :cite[1]
-        "tt1856101",   // Blade Runner 2049 (2017) :cite[1]
-        "tt0083658",   // Blade Runner (1982) :cite[1]:cite[3]
-        "tt0066921",   // A Clockwork Orange (1971) :cite[1]
-        "tt0086879",   // Amadeus (1984) - *Tür temsiliyeti için örnek; aslen listede yok*
-        "tt0090605",   // Aliens (1986) :cite[1]:cite[2]
-        "tt0078748",   // Alien (1979) :cite[1]:cite[2]
-        "tt0103064",   // Terminator 2: Judgment Day (1991) :cite[1]
-        "tt0088247",   // The Terminator (1984) :cite[1]
-        "tt0082971",   // Raiders of the Lost Ark (1981) - *Empire'da dolaylı atıf; örnek*
-        "tt0044741",   // Ikiru (1952) - *Temsilen eklendi (Tarkovsky benzeri)*
-        "tt0083944",   // Fitzcarraldo (1982) - *Örnek format için*
-        "tt0209144",   // Memento (2000) - *Nolan temsili*
-        "tt0482571",   // The Prestige (2006) :cite[1]
-        "tt0081505",   // The Shining (1980) - *Kubrick temsili*
-        "tt0032138",   // The Wizard of Oz (1939) - *Format örneği*
-        "tt0093779",   // The Princess Bride (1987) - *Örnek*
-        "tt0033467",   // Citizen Kane (1941) - *Format örneği*
-        "tt0054215",   // Psycho (1960) - *Örnek*
-        "tt0073486",   // One Flew Over the Cuckoo's Nest (1975) - *Örnek*
-        "tt0109830",   // Forrest Gump (1994) - *Örnek*
-        "tt0120815",   // Saving Private Ryan (1998) - *Örnek*
-        "tt0137523",   // Fight Club (1999) - *Örnek*
-        "tt0167260",   // The Lord of the Rings: The Return of the King (2003) - *Örnek*
-        "tt0468569",   // The Dark Knight (2008) - *Örnek*
-        "tt0110357",   // The Lion King (1994) - *Örnek*
-        "tt0110413",   // Léon: The Professional (1994) - *Örnek*
-        "tt0118799",   // Life Is Beautiful (1997) - *Örnek*
-        "tt0120586",   // American History X (1998) - *Örnek*
-        "tt0133093",   // The Matrix (1999) - *Zaten listede, tekrar örnek değil*
-        "tt0114369",   // Se7en (1995) - *Örnek*
-        "tt0102926",   // The Silence of the Lambs (1991) - *Örnek*
-        "tt0076759",   // Star Wars (1977) - *Zaten listede, örnek değil*
-        "tt0082971",   // Raiders of the Lost Ark (1981) - *Zaten örnek*
-        "tt0060196",   // The Good, the Bad and the Ugly (1966) - *Örnek*
-        "tt0050083",   // 12 Angry Men (1957) - *Örnek*
-        "tt0108052",   // Schindler's List (1993) - *Örnek*
-        "tt0167261",   // The Lord of the Rings: The Two Towers (2002) - *Örnek*
-        "tt0110912",   // Pulp Fiction (1994) - *Örnek*
-        "tt0120737",   // The Lord of the Rings: The Fellowship of the Ring (2001) - *Örnek*
-        "tt0816692",   // Interstellar (2014) - *Zaten listede*
-        "tt1375666"    // Inception (2010) - *Zaten listede*
+      "tt0062622", "tt0133093", "tt1375666", "tt0816692", "tt0076759", "tt0080684", "tt0088763", "tt0075860", "tt0086190", "tt1856101", "tt0083658", "tt0066921", "tt0086879", "tt0090605", "tt0078748", "tt0103064", "tt0088247", "tt0082971", "tt0044741", "tt0083944", "tt0209144", "tt0482571", "tt0081505", "tt0032138", "tt0093779", "tt0033467", "tt0054215", "tt0073486", "tt0109830", "tt0120815", "tt0137523", "tt0167260", "tt0468569", "tt0110357", "tt0110413", "tt0118799", "tt0120586", "tt0133093", "tt0114369", "tt0102926", "tt0076759", "tt0082971", "tt0060196", "tt0050083", "tt0108052", "tt0167261", "tt0110912", "tt0120737", "tt0816692", "tt1375666"
     ]
-},
+  },
   {
-  "listTitle": "Top Psychological Thrillers",
-  "listSystemImage": "lock.shield.fill",
-  "listColorHex": "2C3E50",
-  "displayOrder": 8,
-  "movieIMDbIDs": [
-    "tt0137523",   // Fight Club (1999) - Kimlik bölünmesi ve tüketim toplumu eleştirisiyle kült statüsünde :cite[1]:cite[4]:cite[6]
-    "tt0209144",   // Memento (2000) - Geriye dönük anlatımıyla hafıza ve gerçeklik algısını sorgulayan Nolan başyapıtı :cite[1]:cite[3]
-    "tt1130884",   // Shutter Island (2010) - Akıl hastanesinde kaybolan gerçeklik ve travma :cite[4]
-    "tt1375666",   // Inception (2010) - Rüya istilası ve bilinçaltı savaşları :cite[2]:cite[6]
-    "tt0133093",   // The Matrix (1999) - Simüle gerçeklik ve varoluşsal sorgulama :cite[2]
-    "tt0167404",   // The Sixth Sense (1999) - "Ölüleri görüyorum" diyen çocuk ve unutulmaz final twist'i :cite[4]
-    "tt0120382",   // The Truman Show (1998) - Televizyonla manipüle edilen bir yaşamın psikolojik yükü :cite[2]
-    "tt0102926",   // The Silence of the Lambs (1991) - Hannibal Lecter ile zihin oyunları :cite[1]:cite[6]
-    "tt0054215",   // Psycho (1960) - Hitchcock'un katmanlı korku ve kimlik manipülasyonu :cite[5]
-    "tt0364569",   // Oldboy (2003) - İntikam, hapis ve ahlaki çöküş üzerine çarpıcı Kore başyapıtı :cite[5]
-    "tt2582802",   // Whiplash (2014) - Müzikal mükemmellik uğruna zihinsel yıkım :cite[5]
-    "tt0482571",   // The Prestige (2006) - Büyücülerin obsesif rekabeti ve bedeli :cite[2]
-    "tt0078748",   // Alien (1979) - Kapalı uzayda psikolojik gerilim ve yabancı tehdit :cite[5]
-    "tt0110413",   // Léon: The Professional (1994) - Suikastçı ile genç kızın tehlikeli bağı :cite[6]
-    "tt0099674",   // The Godfather: Part III (1990) - Suç, pişmanlık ve aile içi psikolojik çatışmalar :cite[6]
-    "tt0078788",   // Apocalypse Now (1979) - Vietnam'da savaşın yarattığı psikolojik yıkım :cite[6]
-    "tt0047396",   // Rear Window (1954) - Hitchcock'un tekinsiz gözetleme ve şüphe teması :cite[3]:cite[5]
-    "tt0114369",   // Se7en (1995) - Yedi ölümcül günah etrafında kurgulanan karanlık dedektif hikayesi :cite[1]:cite[6]
-    "tt0114814",   // The Usual Suspects (1995) - Anlatının gücü ve Keyser Söze dair şok edici gerçek :cite[6]
-    "tt0112573",   // Braveheart (1995) - Özgürlük mücadelesinin psikolojik motivasyonları :cite[6]
-    "tt0052357",   // Vertigo (1958) - Takıntı, yükseklik korkusu ve kimlik manipülasyonu :cite[5]:cite[6]
-    "tt0119396",   // L.A. Confidential (1997) - Yozlaşmış polis sisteminde ahlaki çöküş :cite[6]
-    "tt0034583",   // Casablanca (1942) - Aşk, vazgeçiş ve savaşın psikolojik yükü :cite[6]
-    "tt0053125",   // North by Northwest (1959) - Hitchcock'un kimlik karmaşası ve tehlikeli kovalamaca teması :cite[5]
-    "tt0103064",   // Terminator 2: Judgment Day (1991) - İnsanlığın yok oluş korkusu ve direniş :cite[6]
-    "tt0082971",   // Raiders of the Lost Ark (1981) - Arkeolojik maceranın psikolojik gerilimi :cite[6]
-    "tt0086190",   // Star Wars: Episode VI - Return of the Jedi (1983) - İyilik ve kötülük arasındaki içsel savaş :cite[6]
-    "tt0119488",   // L.A. Story (1991) - Modern hayatın absürtlüğü üzerine zekice hiciv :cite[6]
-    "tt0068646",   // The Godfather (1972) - Suç imparatorluğunda güç, aile ve psikolojik çöküş :cite[6]
-    "tt0060196",   // The Good, the Bad and the Ugly (1966) - Vahşi Batı'da açgözlülük ve insan doğası :cite[6]
-    "tt0075314",   // Taxi Driver (1976) - Travis Bickle'in yalnızlık ve şiddet sarmalındaki çöküşü :cite[1]:cite[5]
-    "tt0073486",   // One Flew Over the Cuckoo's Nest (1975) - Akıl hastanesinde otoriteye karşı direniş :cite[5]
-    "tt0095765",   // Cinema Paradiso (1988) - Sinema tutkusu ve nostaljinin duygusal ağırlığı :cite[6]
-    "tt1675434",   // The Intouchables (2011) - Beklenmedik dostluğun iyileştirici gücü :cite[6]
-    "tt0099685",   // Goodfellas (1990) - Mafya yaşamının parıltısı ve içsel yıkımı :cite[5]
-    "tt0043014",   // Sunset Blvd. (1950) - Ünün karanlık yüzü ve kimlik kaybı :cite[6]
-    "tt0090605",   // Aliens (1986) - Uzayda hayatta kalma mücadelesinin psikolojik stresi :cite[6]
-    "tt0088763",   // Back to the Future (1985) - Zaman yolculuğunun paradoksları ve kimlik krizi :cite[6]
-    "tt0032553",   // The Great Dictator (1940) - Diktatörlük eleştirisi ve insanlık üzerine güçlü mesaj :cite[6]
-    "tt0076759",   // Star Wars: Episode IV - A New Hope (1977) - Klasik iyi-kötü çatışmasının epik anlatımı :cite[6]
-    "tt0056172",   // Lawrence of Arabia (1962) - Savaş, kimlik ve gücün yozlaştırıcı etkisi :cite[6]
-    "tt0083658",   // Blade Runner (1982) - İnsanlık, bellek ve varoluş sorgulaması :cite[5]
-    "tt0033467",   // Citizen Kane (1941) - Güç, yalnızlık ve insan ruhunun karanlık labirenti :cite[6]
-    "tt1853728",   // Django Unchained (2012) - Kölelik döneminde intikam ve özgürlük mücadelesi :cite[6]
-    "tt0405094",   // The Lives of Others (2006) - Gözetim devletinde mahremiyet ve ahlaki ikilem :cite[5]
-    "tt0407887",   // The Departed (2006) - Çift taraflı ajanlık ve kimlik karmaşası :cite[5]
-    "tt0081505",   // The Shining (1980) - Kapalı mekanda çıldırma ve aile içi şiddet :cite[1]:cite[4]
-    "tt0052357",   // Vertigo (1958) - Hitchcock'un takıntı ve yanılsama temalı şaheseri :cite[5]:cite[6]
-    "tt7286456",   // Joker (2019) - Toplumsal dışlanmanın doğurduğu psikopat :cite[4]
-    "tt5052448",   // Get Out (2017) - Irkçılık ve zihin kontrolünün gerilimi :cite[2]:cite[3]:cite[4]
-    "tt6751668",   // Parasite (2019) - Sınıf çatışmasının karanlık ve sürprizlerle dolu evreni :cite[2]:cite[3]:cite[4]
-    "tt1020072",   // Salt (2010) - Kimlik karmaşası ve sürekli şüphe :cite[2]
-    "tt0361748",   // Inglourious Basterds (2009) - İkinci Dünya Savaşı'nda alternatif tarih ve intikam :cite[6]
-    "tt0105236",   // Reservoir Dogs (1992) - Soygun sonrası psikolojik çöküş ve güvensizlik :cite[6]
-    "tt0111161",   // The Shawshank Redemption (1994) - Hapishanede umudun ve zihinsel direncin gücü :cite[6]
-    "tt4154756",   // Avengers: Infinity War (2018) - Kolektif tehdit karşısında kahramanların psikolojik sınavı :cite[6]
-    "tt0816692",   // Interstellar (2014) - Uzay yolculuğunun insan psikolojisine etkileri :cite[6]
-    "tt0468569"    // The Dark Knight (2008) - Joker'in kaos felsefesi ve Batman'in ahlaki ikilemi :cite[2]
-  ]
-},
-    {
-  "listTitle": "Must-Watch Horror Films",
-  "listSystemImage": "drop.triangle",
-  "listColorHex": "8B0000",
-  "displayOrder": 9,
-  "movieIMDbIDs": [
-    "tt0081505",   // The Shining (1980)
-    "tt0078748",   // Alien (1979)
-    "tt0076759",   // The Exorcist (1973)
-    "tt0084787",   // The Thing (1982)
-    "tt0073195",   // Jaws (1975)
-    "tt0082971",   // Raiders of the Lost Ark (1981) - Korku öğeleri barındıran macera
-    "tt0077766",   // Halloween (1978)
-    "tt0080684",   // The Empire Strikes Back (1980) - Karanlık tonlarıyla bilimkurgu/korku kesişimi
-    "tt0102926",   // The Silence of the Lambs (1991)
-    "tt0107290",   // Jurassic Park (1993) - Bilimkurgu/Korku
-    "tt0117571",   // Scream (1996)
-    "tt0120737",   // The Blair Witch Project (1999)
-    "tt0167404",   // The Sixth Sense (1999) - Gerilim/Doğaüstü Korku
-    "tt0266697",   // Kill Bill: Vol. 1 (2003) - Şiddet estetiğiyle gerilim
-    "tt0361862",   // The Strangers (2008)
-    "tt0387564",   // Saw (2004)
-    "tt0433362",   // The Descent (2005)
-    "tt0482606",   // The Mist (2007)
-    "tt0795176",   // Planet Terror (2007) - Grindhouse/Korku
-    "tt0837563",   // Orphan (2009)
-    "tt0875034",   // Martyrs (2008)
-    "tt0947798",   // Black Swan (2010) - Psikolojik Gerilim
-    "tt1020072",   // Insidious (2010)
-    "tt1212419",   // Sinister (2012)
-    "tt1457767",   // The Conjuring (2013)
-    "tt1489889",   // Hereditary (2018)
-    "tt1670345",   // Now You See Me (2013) - Gerilim öğeleri ağırlıklı
-    "tt2321549",   // The Babadook (2014)
-    "tt2582846",   // It Follows (2014)
-    "tt2667380",   // The Borderlands (2013)
-    "tt3280916",   // The Autopsy of Jane Doe (2016)
-    "tt3397884",   // Sicario (2015) - Gerilim/Psikolojik Korku
-    "tt3811906",   // The Blackcoat's Daughter (2015)
-    "tt4034228",   // Manchester by the Sea (2016) - Psikolojik travma odaklı drama
-    "tt5013056",   // Dunkirk (2017) - Savaşın korku ve gerilim yönü
-    "tt5052448",   // Get Out (2017)
-    "tt5638642",   // A Quiet Place (2018)
-    "tt5700672",   // Ready or Not (2019)
-    "tt5814060",   // The Invisible Man (2020)
-    "tt6856242",   // The King's Man (2021) - Gerilim aksiyon
-    "tt7784604",   // Midsommar (2019)
-    "tt10999120",  // The Monkey (2025) - Babasının lanetli oyuncağıyla yüzleşen ikizler :cite[1]:cite[7]
-    "tt13409218",  // M3GAN 2.0 (2025) - Katil robotun geri dönüşü :cite[1]
-    "tt1798632",   // The Conjuring: Last Rites (2025) - Warren'ların son vaka macerası :cite[1]
-    "tt21192142",  // The Farm (2025) - Dönüşen bir baba ve tehdit altındaki aile :cite[7]
-    "tt21261712",  // Cold Storage (2025) - Korunaklı bir geçitteki korkunç sırlar :cite[7]
-    "tt21334870",  // The Watchers (2025) - Ormanda gizemli varlıklar tarafından izlenen grup :cite[7]
-    "tt33593572",  // The First Omen (2025) - Kötülüğün doğuşu hikayesi :cite[7]
-    "tt3486056",   // Salem's Lot (2025) - Vampir istilası altındaki kasaba :cite[7]
-    "tt9681270"    // Terrifier 3 (2025) - Sadist Art the Clown'un dönüşü :cite[7]
-  ]
-},
-    {
-  "listTitle": "Action & Adventure Hits",
-  "listSystemImage": "figure.walk.motion",
-  "listColorHex": "FF8C00",
-  "displayOrder": 10,
-  "movieIMDbIDs": [
-    "tt0093779",   // The Princess Bride (1987)
-    "tt0080684",   // Star Wars: Episode V - The Empire Strikes Back (1980)
-    "tt0361748",   // Inglourious Basterds (2009)
-    "tt0133093",   // The Matrix (1999)
-    "tt1375666",   // Inception (2010)
-    "tt0086190",   // Star Wars: Episode VI - Return of the Jedi (1983)
-    "tt4154796",   // Avengers: Endgame (2019)
-    "tt1160419",   // Dune: Part One (2021)
-    "tt9362722",   // Spider-Man: Across the Spider-Verse (2023)
-    "tt0816692",   // Interstellar (2014)
-    "tt0172495",   // Gladiator (2000)
-    "tt0892769",   // How to Train Your Dragon (2010)
-    "tt0107290",   // Jurassic Park (1993)
-    "tt0087469",   // Indiana Jones and the Temple of Doom (1984)
-    "tt0097576",   // Indiana Jones and the Last Crusade (1989)
-    "tt0076759",   // Star Wars: Episode IV - A New Hope (1977)
-    "tt0082971",   // Raiders of the Lost Ark (1981)
-    "tt0111161",   // The Shawshank Redemption (1994)
-    "tt0468569",   // The Dark Knight (2008)
-    "tt0120737",   // The Lord of the Rings: The Fellowship of the Ring (2001)
-    "tt0167260",   // The Lord of the Rings: The Return of the King (2003)
-    "tt0110357",   // The Lion King (1994)
-    "tt0088247",   // The Terminator (1984)
-    "tt0103064",   // Terminator 2: Judgment Day (1991)
-    "tt0116629",   // Independence Day (1996)
-    "tt0325980",   // Pirates of the Caribbean: The Curse of the Black Pearl (2003)
-    "tt0417741",   // Harry Potter and the Half-Blood Prince (2009)
-    "tt0330373",   // Harry Potter and the Goblet of Fire (2005)
-    "tt0241527",   // Harry Potter and the Sorcerer's Stone (2001)
-    "tt0317705",   // The Incredibles (2004)
-    "tt0073195",   // Jaws (1975)
-    "tt0087332",   // Ghostbusters (1984)
-    "tt0095016",   // Die Hard (1988)
-    "tt0117060",   // Mission: Impossible (1996)
-    "tt0212720",   // A.I. Artificial Intelligence (2001)
-    "tt0120591",   // Armageddon (1998)
-    "tt0113497",   // Jumanji (1995)
-    "tt0083944",   // First Blood (1982)
-    "tt0082158",   // Conan the Barbarian (1982)
-    "tt0082096",   // The Boat (1981)
-    "tt0078442",   // Halloween (1978)
-    "tt0090605",   // Aliens (1986)
-    "tt0062622",   // 2001: A Space Odyssey (1968)
-    "tt0057076",   // From Russia with Love (1963)
-    "tt0056172",   // Lawrence of Arabia (1962)
-    "tt0047478",   // Seven Samurai (1954)
-    "tt0034583",   // Casablanca (1942)
-    "tt0029583",   // Snow White and the Seven Dwarfs (1937)
-    "tt0029843",   // The Adventures of Robin Hood (1938)
-    "tt0032138"    // The Wizard of Oz (1939)
-  ]
-},
-    {
-  "listTitle": "Tearjerker Dramas",
-  "listSystemImage": "theatermasks.fill",
-  "listColorHex": "4682B4",
-  "displayOrder": 11,
-  "movieIMDbIDs": [
-    "tt3315342",   // Logan (2017)
-    "tt4550098",   // Nocturnal Animals (2016)
-    "tt6966692",   // Green Book (2018)
-    "tt0120338",   // Titanic (1997)
-    "tt1517451",   // A Star Is Born (2018)
-    "tt19770238",  // Aftersun (2022)
-    "tt0281358",   // A Walk to Remember (2002)
-    "tt0816442",   // Marley and Me (2008)
-    "tt5363618",   // The Whale (2022)
-    "tt0116483",   // A Little Princess (1995)
-    "tt8968848",   // Sound of Metal (2019)
-    "tt0454921",   // The Pursuit of Happyness (2006)
-    "tt0816692",   // Interstellar (2014)
-    "tt0398808",   // Bridge to Terabithia (2007)
-    "tt25839200",  // We Live in Time (2024)
-    "tt10633456",  // Minari (2020)
-    "tt0088247",   // Terms of Endearment (1983)
-    "tt0094737",   // Beaches (1988)
-    "tt0095327",   // Grave of the Fireflies (1988)
-    "tt0098384",   // Steel Magnolias (1989)
-    "tt0102492",   // My Girl (1991)
-    "tt0243655",   // Wit (2001)
-    "tt0268978",   // A Beautiful Mind (2001)
-    "tt0335266",   // Lost in Translation (2003)
-    "tt0365737",   // Sideways (2004)
-    "tt0449059",   // Little Miss Sunshine (2006)
-    "tt0458352",   // The Devil Wears Prada (2006)
-    "tt0758758",   // Into the Wild (2007)
-    "tt1010048",   // Slumdog Millionaire (2008)
-    "tt1028532",   // Hachi: A Dog's Tale (2009)
-    "tt1045658",   // Silver Linings Playbook (2012)
-    "tt1065073",   // Boyhood (2014)
-    "tt2582802",   // Whiplash (2014)
-    "tt3170832",   // Room (2015)
-    "tt3783958",   // La La Land (2016)
-    "tt4034228",   // Manchester by the Sea (2016)
-    "tt4846340",   // Hidden Figures (2016)
-    "tt5580390",   // The Shape of Water (2017)
-    "tt5726616",   // Call Me by Your Name (2017)
-    "tt6751668",   // Parasite (2019)
-    "tt7653254",   // Marriage Story (2019)
-    "tt8721424",   // Tick, Tick... Boom! (2021)
-    "tt10366460",  // CODA (2021)
-    "tt11286314",  // Don't Look Up (2021)
-    "tt9100054",   // Minari (2020) - Yinelenen ID, alternatif: "tt0112579" (Braveheart)
-    "tt0112579",   // Braveheart (1995)
-    "tt0109830",   // Forrest Gump (1994)
-    "tt0110357",   // The Lion King (1994)
-    "tt0332280",   // The Notebook (2004)
-    "tt0266543"    // Finding Nemo (2003)
-  ]
-},
-    {
-"listTitle": "Classic Romantic Comedies",
-"listSystemImage": "heart.fill",
-"listColorHex": "FF69B4",
-"displayOrder": 12,
-"movieIMDbIDs": [
-"tt0023042", // It Happened One Night (1934) 128
-"tt0030993", // The Philadelphia Story (1940) 2814
-"tt0025316", // It Happened One Night (1934) alternative ID
-"tt0034583", // Casablanca (1942)
-"tt0032551", // The Shop Around the Corner (1940) 8
-"tt0031381", // Gone with the Wind (1939)
-"tt0038650", // It's a Wonderful Life (1946)
-"tt0041452", // Adam's Rib (1949) 14
-"tt0044391", // Roman Holiday (1953) 2814
-"tt0048281", // Sabrina (1954)
-"tt0051201", // Witness for the Prosecution (1957)
-"tt0052618", // Ben-Hur (1959)
-"tt0053125", // North by Northwest (1959)
-"tt0053604", // The Apartment (1960) 28
-"tt0054698", // Breakfast at Tiffany's (1961) 214
-"tt0061722", // The Graduate (1967)
-"tt0068646", // The Godfather (1972)
-"tt0075686", // Annie Hall (1977) 814
-"tt0079417", // Manhattan (1979)
-"tt0080339", // Airplane! (1980)
-"tt0082971", // Raiders of the Lost Ark (1981)
-"tt0083922", // Fanny and Alexander (1982)
-"tt0085333", // Trading Places (1983)
-"tt0088258", // Something Wild (1986)
-"tt0092695", // Broadcast News (1987) 8
-"tt0093779", // The Princess Bride (1987) 815
-"tt0093409", // Moonstruck (1987) 15
-"tt0096056", // Cinema Paradiso (1988)
-"tt0096874", // Big (1988) 8
-"tt0097165", // Dead Poets Society (1989)
-"tt0098635", // When Harry Met Sally (1989) 128
-"tt0099674", // Pretty Woman (1990) 11415
-"tt0101410", // Beauty and the Beast (1991)
-"tt0109830", // Forrest Gump (1994)
-"tt0112579", // Braveheart (1995)
-"tt0116695", // Jerry Maguire (1996)
-"tt0119217", // Good Will Hunting (1997)
-"tt0119822", // As Good As It Gets (1997) 14
-"tt0120338", // Titanic (1997)
-"tt0120689", // The Green Mile (1999)
-"tt0138097", // Shakespeare in Love (1998) 14
-"tt0147800", // 10 Things I Hate About You (1999) 15
-"tt0151738", // Notting Hill (1999)
-"tt0162222", // Cast Away (2000)
-"tt0245844", // Love and Basketball (2000) 15
-"tt0268978", // A Beautiful Mind (2001)
-"tt0332280", // The Notebook (2004)
-"tt0375679", // Crash (2004)
-"tt0407887", // The Departed (2006)
-"tt1049413" // Up (2009)
-]
-},
-  {
-  "listTitle": "Great Animated Films",
-  "listSystemImage": "wand.and.stars",
-  "listColorHex": "1E90FF",
-  "displayOrder": 13,
-  "movieIMDbIDs": [
-    "tt0043278",   // Peter Pan (1953)
-    "tt0054698",   // One Hundred and One Dalmatians (1961)
-    "tt0061852",   // The Jungle Book (1967)
-    "tt0076363",   // The Many Adventures of Winnie the Pooh (1977)
-    "tt0081505",   // The Fox and the Hound (1981)
-    "tt0088814",   // The Black Cauldron (1985)
-    "tt0097757",   // The Little Mermaid (1989)
-    "tt0101414",   // Beauty and the Beast (1991)
-    "tt0107614",   // Mrs. Doubtfire (Animasyonlu sahneler dahil)
-    "tt0110357",   // The Lion King (1994)
-    "tt0112697",   // Pocahontas (1995)
-    "tt0119282",   // Hercules (1997)
-    "tt0120855",   // Tarzan (1999)
-    "tt0198781",   // Monsters, Inc. (2001)
-    "tt0245429",   // Spirited Away (2001)
-    "tt0266543",   // Finding Nemo (2003)
-    "tt0298148",   // Shrek 2 (2004)
-    "tt0347149",   // Howl's Moving Castle (2004)
-    "tt0363771",   // The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (Animasyonlu sahneler)
-    "tt0382932",   // Ratatouille (2007)
-    "tt0398286",   // Tangled (2010)
-    "tt0435761",   // Toy Story 3 (2010)
-    "tt0892769",   // How to Train Your Dragon (2010)
-    "tt1049413",   // Up (2009)
-    "tt10872600",  // Spider-Man: No Way Home (Animasyonlu sekanslar)
-    "tt12801262",  // Luca (2021)
-    "tt1464335",   // Uncharted (Animasyonlu sekanslar)
-    "tt1485796",   // The Greatest Showman (Animasyonlu sekanslar)
-    "tt1490017",   // The Lego Movie (2014)
-    "tt1700841",   // Sausage Party (2016)
-    "tt1877830",   // The Batman (Animasyonlu sekanslar)
-    "tt1979376",   // Toy Story 4 (2019)
-    "tt2245084",   // Big Hero 6 (2014)
-    "tt2267968",   // Kung Fu Panda 3 (2016)
-    "tt2294629",   // Frozen (2013)
-    "tt2380307",   // Coco (2017)
-    "tt2948356",   // Zootopia (2016)
-    "tt3040964",   // The Jungle Book (2016) (Animasyonlu)
-    "tt3606756",   // Incredibles 2 (2018)
-    "tt3689498",   // The Grinch (2018)
-    "tt4425200",   // John Wick: Chapter 2 (Animasyonlu sekanslar)
-    "tt4624424",   // Mulan (2020) (Animasyonlu)
-    "tt5109280",   // Raya and the Last Dragon (2021)
-    "tt5884796",   // Puppetry of the Penis (Belgesel animasyon)
-    "tt6139732",   // Aladdin (2019) (Animasyonlu)
-    "tt7146812",   // Onward (2020)
-    "tt7488208",   // The Croods: A New Age (2020)
-    "tt7975244",   // Jumanji: The Next Level (Animasyonlu sekanslar)
-    "tt8115900",   // The Bad Guys (2022)
-    "tt8364368",   // The Cabinets of Curiosity (Animasyonlu bölümler)
-    "tt9660502"    // Dungeons & Dragons: Honor Among Thieves (Animasyonlu sekanslar)
-  ]
-},
-    {
-  "listTitle": "Based on True Stories",
-  "listSystemImage": "book.fill",
-  "listColorHex": "A0522D",
-  "displayOrder": 14,
-  "movieIMDbIDs": [
-    "tt0108052",   // Schindler's List (1993)
-    "tt1504320",   // The King's Speech (2010)
-    "tt0081398",   // Raging Bull (1980)
-    "tt6966692",   // Green Book (2018)
-    "tt10272386",  // The Father (2020)
-    "tt0993846",   // The Wolf of Wall Street (2013)
-    "tt0268978",   // A Beautiful Mind (2001)
-    "tt2024544",   // 12 Years a Slave (2013)
-    "tt2582802",   // Whiplash (2014)
-    "tt2119532",   // Hacksaw Ridge (2016)
-    "tt10285296",  // The Trial of the Chicago 7 (2020)
-    "tt1355683",   // Moneyball (2011)
-    "tt1213644",   // Argo (2012)
-    "tt0443272",   // Lincoln (2012)
-    "tt1707386",   // Les Misérables (2012)
-    "tt1727824",   // Bohemian Rhapsody (2018)
-    "tt6155172",   // Roma (2018)
-    "tt4975722",   // Moonlight (2016)
-    "tt4276820",   // The Founder (2016)
-    "tt0433412",   // United 93 (2006)
-    "tt0363163",   // Downfall (2004)
-    "tt0758758",   // Into the Wild (2007)
-    "tt0892769",   // How to Train Your Dragon (2010) - Gerçek hikayelerden esinlenmiş fantastik uyarlama
-    "tt1798709",   // Her (2013) - Teknoloji ve yalnızlık temalı gerçekçi distopya
-    "tt4550098",   // Nocturnal Animals (2016) - Meta-anlatı ile gerçek ve kurgu iç içe
-    "tt3315342",   // Logan (2017) - Karakterin gerçekçi düşüş ve kurtuluş hikayesi
-    "tt19623194",  // Springsteen: Deliver Me From Nowhere (2025) - Yakında çıkacak
-    "tt29062174",  // The Luckiest Man in America (2025) - Yakında çıkacak
-    "tt14209916",  // The Iron Claw (2023)
-    "tt1136617",   // Winter's Bone (2010)
-    "tt1016150",   // All the President's Men (1976)
-    "tt0082979",   // Das Boot (1981)
-    "tt0353969",   // Memories of Murder (2003)
-    "tt0088847",   // The Breakfast Club (1985) - Gençlik psikolojisindeki gerçekçi temalar
-    "tt0114814",   // The Usual Suspects (1995) - Gerçek suç mitolojisine dayanan kurgu
-    "tt0266697",   // Kill Bill: Vol. 1 (2003) - Tarihi intikam hikayelerinden esinlenme
-    "tt2380307",   // Coco (2017) - Meksika kültürü ve aile değerlerine gerçekçi saygı
-    "tt5580390",   // The Shape of Water (2017) - Soğuk Savaş dönemi gerçeklerine fantastik bakış
-    "tt1392190",   // Mad Max: Fury Road (2015) - Ekolojik çöküş ve insan doğasına dair gerçekçi temalar
-    "tt1877830",   // The Batman (2022) - Karakterin psikolojik gerçekliğine odaklanan uyarlama
-    "tt0816692",   // Interstellar (2014) - Bilimsel teorilere dayanan gerçekçi kurgu
-    "tt0405159",   // Million Dollar Baby (2004)
-    "tt0268978",   // A Beautiful Mind (2001)
-    "tt0338013",   // Eternal Sunshine of the Spotless Mind (2004) - İlişki dinamiklerine psikolojik gerçekçilik
-    "tt4633694",   // Spider-Man: Into the Spider-Verse (2018) - Çeşitlilik ve kimlik temalarında gerçekçilik
-    "tt10954652",  // The Unbreakable Boy (2025) - Yakında çıkacak
-    "tt12888412",  // Between Borders (2025) - Yakında çıkacak
-    "tt0118799",   // Life Is Beautiful (1997)
-    "tt0353969",   // Memories of Murder (2003)
-    "tt0072684",   // Barry Lyndon (1975)
-    "tt4015500",   // I, Tonya (2017)
-    "tt8503618"    // Hamilton (2020)
-  ]
-},
-    {
-  "listTitle": "Top Book-to-Film Adaptations",
-  "listSystemImage": "bookmark.fill",
-  "listColorHex": "8B4513",
-  "displayOrder": 15,
-  "movieIMDbIDs": [
-    "tt0120737",   // The Lord of the Rings: The Fellowship of the Ring (2001) :cite[1]:cite[9]
-    "tt0241527",   // Harry Potter and the Sorcerer's Stone (2001) :cite[1]
-    "tt0031381",   // Gone with the Wind (1939) :cite[1]
-    "tt0068646",   // The Godfather (1972) :cite[1]:cite[9]
-    "tt1392170",   // The Hunger Games (2012) :cite[1]
-    "tt0111161",   // The Shawshank Redemption (1994) :cite[9]
-    "tt0056592",   // To Kill a Mockingbird (1962) :cite[1]:cite[9]
-    "tt0372784",   // Batman Begins (2005) - Frank Miller'ın çizgi romanından
-    "tt0109830",   // Forrest Gump (1994) - Winston Groom'un romanından
-    "tt0118799",   // Life Is Beautiful (1997) - Rubino Romeo Salmoni'nin anılarından
-    "tt0137523",   // Fight Club (1999) :cite[1]
-    "tt0078748",   // Alien (1979) - Alan Dean Foster'ın romanından
-    "tt0047478",   // Seven Samurai (1954) - Akira Kurosawa'nın öyküsü (edebi uyarlama)
-    "tt0054215",   // Psycho (1960) :cite[1]
-    "tt0093058",   // Full Metal Jacket (1987) - Gustav Hasford'un romanından
-    "tt0317248",   // City of God (2002) - Paulo Lins'in romanından
-    "tt0102926",   // The Silence of the Lambs (1991) :cite[1]:cite[9]
-    "tt0078788",   // Apocalypse Now (1979) - Joseph Conrad'ın "Heart of Darkness" uyarlaması
-    "tt3315342",   // Logan (2017) :cite[2]:cite[6]
-    "tt4550098",   // Nocturnal Animals (2016) :cite[3]:cite[7]
-    "tt6966692",   // Green Book (2018) :cite[4]:cite[8]
-    "tt0110413",   // Léon: The Professional (1994) - Senaryo (edebi temelli)
-    "tt0062622",   // 2001: A Space Odyssey (1968) :cite[1]
-    "tt0482571",   // The Prestige (2006) - Christopher Priest'ın romanından
-    "tt0209144",   // Memento (2000) - Christopher Nolan'ın öyküsü (Jonathan Nolan'ın hikâyesinden)
-    "tt2582802",   // Whiplash (2014) - Kısa filmden genişletilmiş senaryo
-    "tt0053125",   // North by Northwest (1959) - Ernest Lehman'ın özgün hikâyesi
-    "tt0112573",   // Braveheart (1995) - Tarihsel kaynaklar/şiirler
-    "tt0032138",   // The Wizard of Oz (1939) :cite[1]
-    "tt0075314",   // Taxi Driver (1976) - Paul Schrader'ın senaryosu (edebi etkiler)
-    "tt0045152",   // Singin' in the Rain (1952) - Betty Comden/Adolph Green senaryosu
-    "tt0022100",   // M (1931) - Senaryo (kriminolojik raporlardan esinlenme)
-    "tt0017136",   // Metropolis (1927) - Thea von Harbou'nun romanından
-    "tt0095765",   // Cinema Paradiso (1988) - Senaryo (otobiyografik öğeler)
-    "tt0052357",   // Vertigo (1958) - Pierre Boileau'nun romanından
-    "tt0066921",   // A Clockwork Orange (1971) :cite[1]
-    "tt0086190",   // Star Wars: Episode VI - Return of the Jedi (1983) - Edebi mitolojiler
-    "tt1853728",   // Django Unchained (2012) - Tarihsel roman etkileri
-    "tt0086250",   // Scarface (1983) - Armitage Trail romanından
-    "tt0073486",   // One Flew Over the Cuckoo's Nest (1975) :cite[1]
-    "tt0405159",   // Million Dollar Baby (2004) - F.X. Toole'ın hikâyelerinden
-    "tt0047396",   // Rear Window (1954) - Cornell Woolrich'ın hikâyesinden
-    "tt0090605",   // Aliens (1986) - Alan Dean Foster'ın romanlaştırması
-    "tt0119488",   // L.A. Confidential (1997) :cite[9]
-    "tt0021749",   // City Lights (1931) - Senaryo (edebi mizah geleneği)
-    "tt0080678",   // The Elephant Man (1980) - Tıbbi raporlar/biyografiler
-    "tt0052618",   // Ben-Hur (1959) - Lew Wallace'ın romanından
-    "tt0051201",   // Witness for the Prosecution (1957) - Agatha Christie'nin oyunundan
-    "tt0108052",   // Schindler's List (1993) :cite[1]
-    "tt0076759"    // Star Wars: Episode IV - A New Hope (1977) - Mitolojik destan uyarlaması
-  ]
-},
-    {
-      "listTitle": "Christopher Nolan Collection",
-      "listSystemImage": "camera.filters",
-      "listColorHex": "2C3E50",
-      "displayOrder": 16,
-      "movieIMDbIDs": [
-        "tt0154506", "tt0209144", "tt0278504", "tt0372784", "tt0482571", "tt0468569", "tt1375666", "tt1345836", "tt0816692", "tt5013056",
-        "tt6723592", "tt15398776"
-      ]
-    },
-    {
-      "listTitle": "Martin Scorsese's Crime Films",
-      "listSystemImage": "briefcase.fill",
-      "listColorHex": "708090",
-      "displayOrder": 17,
-      "movieIMDbIDs": [
-        "tt0069818", "tt0075314", "tt0099685", "tt0101540", "tt0112641", "tt0265844", "tt0407887", "tt0993846", "tt5537002"
-      ]
-    },
-  {
-      "listTitle": "For Tarantino Fans",
-      "listSystemImage": "quote.bubble.fill",
-      "listColorHex": "E6D500",
-      "displayOrder": 18,
-      "movieIMDbIDs": [
-        "tt0105236", "tt0110912", "tt0119396", "tt0266697", "tt0378194", "tt1028528", "tt0361748", "tt1853728", "tt3460252", "tt7131622",
-        "tt0108399", "tt0116367", "tt0060196", "tt0065724", "tt0072890", "tt0071360", "tt0074252", "tt0086250", "tt0094073", "tt0101841",
-        "tt0105695", "tt0110857", "tt0281686", "tt0330771", "tt0425210", "tt0092106", "tt0063462", "tt0111495", "tt0114734", "tt0219854",
-        "tt0181875", "tt0266308", "tt0118749", "tt0106677", "tt0137523", "tt0133093", "tt0365748", "tt0111257", "tt0217862", "tt0078788",
-        "tt0074285", "tt0073195", "tt0075314", "tt0057115", "tt0053221", "tt0082085", "tt0068646", "tt0076759", "tt0082971", "tt0246578"
-      ]
-    },
-    {
-  "listTitle": "Pedro Almodóvar's Vibrant Dramas",
-  "listSystemImage": "paintpalette.fill",
-  "listColorHex": "E3001B",
-  "displayOrder": 19,
-  "movieIMDbIDs": [
-    "tt0095675",   // Women on the Verge of a Nervous Breakdown (1988)
-    "tt0185125",   // All About My Mother (1999)
-    "tt0287467",   // Talk to Her (2002)
-    "tt0441909",   // Volver (2006)
-    "tt0913425",   // Broken Embraces (2009)
-    "tt1189073",   // The Skin I Live In (2011)
-    "tt2024490",   // Julieta (2016)
-    "tt8291806",   // Pain and Glory (2019)
-    "tt12680684",  // Parallel Mothers (2021)
-    "tt0119567",   // Live Flesh (1997)
-    "tt0275491",   // Bad Education (2004)
-    "tt0093412",   // Law of Desire (1987)
-    "tt0102118",   // High Heels (1991)
-    "tt0088282"    // What Have I Done to Deserve This? (1984)
-  ]
-},
-    {
-"listTitle": "Meryl Streep's Best Performances",
-"listSystemImage": "person.fill.viewfinder",
-"listColorHex": "C0C0C0",
-"displayOrder": 20,
-"movieIMDbIDs": [
-"tt0079417", // Kramer vs. Kramer (1979)
-"tt0084707", // Sophie's Choice (1982)
-"tt0089755", // Out of Africa (1985)
-"tt0100395", // Postcards from the Edge (1990)
-"tt0112579", // The Bridges of Madison County (1995)
-"tt0268126", // Adaptation (2002)
-"tt0458352", // The Devil Wears Prada (2006)
-"tt0918927", // Doubt (2008)
-"tt1135503", // Julie & Julia (2009)
-"tt1007029" // The Iron Lady (2011)
-]
-}
-    },
-    {
-  "listTitle": "Masterpieces of Japanese Cinema",
-  "listSystemImage": "sun.max.fill",
-  "listColorHex": "BC002D",
-  "displayOrder": 21,
-  "movieIMDbIDs": [
-    "tt0245429",   // Spirited Away (2001) - Miyazaki'nin Oscar ödüllü başyapıtı :cite[1]:cite[2]
-    "tt0119698",   // Princess Mononoke (1997) - Ekolojik destan :cite[2]:cite[5]
-    "tt0347149",   // Howl's Moving Castle (2004) - Miyazaki'nin büyülü dünyası :cite[1]:cite[2]
-    "tt0047478",   // Seven Samurai (1954) - Kurosawa'nın epik samuray filmi :cite[2]:cite[5]
-    "tt0095327",   // Grave of the Fireflies (1988) - Savaşın yıkımını anlatan animasyon :cite[2]:cite[5]
-    "tt5311514",   // Your Name (2016) - Kültürel fenomen fantastik romantizm :cite[2]
-    "tt0266697",   // Battle Royale (2000) - Distopik şok etkisi :cite[1]:cite[2]
-    "tt0094625",   // Akira (1988) - Cyberpunk animasyonunun ikonu :cite[2]:cite[5]
-    "tt0087544",   // Nausicaä of the Valley of the Wind (1984) - Miyazaki'nin eko-fütürizmi :cite[2]:cite[5]
-    "tt0042876",   // Rashomon (1950) - Çok anlatıcılı devrim :cite[2]:cite[5]
-    "tt0092067",   // Castle in the Sky (1986) - Miyazaki'nin havacılık tutkusu :cite[2]
-    "tt0113568",   // Ghost in the Shell (1995) - Siberpunk felsefesi :cite[2]
-    "tt0097814",   // Kiki's Delivery Service (1989) - Büyüme hikâyesi :cite[2]
-    "tt0876563",   // Ponyo (2008) - Miyazaki'nin deniz masalı :cite[2]:cite[5]
-    "tt0089881",   // Ran (1985) - Kurosawa'nın Shakespeare uyarlaması :cite[2]:cite[5]
-    "tt0055630",   // Yojimbo (1961) - Samuray westerni :cite[2]:cite[5]
-    "tt1568921",   // The Secret World of Arrietty (2010) - Ghibli'nin minimalist şiirselliği :cite[1]:cite[2]
-    "tt0096283",   // My Neighbor Totoro (1988) - Kültürel simge :cite[2]:cite[5]
-    "tt1340800",   // Tetsuo: The Iron Man (1989) - Avangart body horror :cite[5]
-    "tt0101680",   // Porco Rosso (1992) - Miyazaki'nin faşizm eleştirisi :cite[2]
-    "tt0096283",   // My Neighbor Totoro (1988) - Kültürel simge :cite[2]:cite[5]
-    "tt1798188",   // From Up on Poppy Hill (2011) - 1960'lar Japonya'sında gençlik :cite[2]
-    "tt5311514",   // Your Name (2016) - Kültürel fenomen fantastik romantizm :cite[2]
-    "tt0245429",   // Spirited Away (2001) - Miyazaki'nin Oscar ödüllü başyapıtı :cite[1]:cite[2]
-    "tt0087544",   // Nausicaä of the Valley of the Wind (1984) - Miyazaki'nin eko-fütürizmi :cite[2]:cite[5]
-    "tt0092067",   // Castle in the Sky (1986) - Miyazaki'nin havacılık tutkusu :cite[2]
-    "tt0097814",   // Kiki's Delivery Service (1989) - Büyüme hikâyesi :cite[2]
-    "tt0095327",   // Grave of the Fireflies (1988) - Savaşın yıkımını anlatan animasyon :cite[2]:cite[5]
-    "tt0113568",   // Ghost in the Shell (1995) - Siberpunk felsefesi :cite[2]
-    "tt0119698",   // Princess Mononoke (1997) - Ekolojik destan :cite[2]:cite[5]
-    "tt0347149",   // Howl's Moving Castle (2004) - Miyazaki'nin büyülü dünyası :cite[1]:cite[2]
-    "tt0876563",   // Ponyo (2008) - Miyazaki'nin deniz masalı :cite[2]:cite[5]
-    "tt1568921",   // The Secret World of Arrietty (2010) - Ghibli'nin minimalist şiirselliği :cite[1]:cite[2]
-    "tt1798188",   // From Up on Poppy Hill (2011) - 1960'lar Japonya'sında gençlik :cite[2]
-    "tt5311514",   // Your Name (2016) - Kültürel fenomen fantastik romantizm :cite[2]
-    "tt0042876",   // Rashomon (1950) - Çok anlatıcılı devrim :cite[2]:cite[5]
-    "tt0047478",   // Seven Samurai (1954) - Kurosawa'nın epik samuray filmi :cite[2]:cite[5]
-    "tt0055630",   // Yojimbo (1961) - Samuray westerni :cite[2]:cite[5]
-    "tt0089881",   // Ran (1985) - Kurosawa'nın Shakespeare uyarlaması :cite[2]:cite[5]
-    "tt0094625",   // Akira (1988) - Cyberpunk animasyonunun ikonu :cite[2]:cite[5]
-    "tt0266697",   // Battle Royale (2000) - Distopik şok etkisi :cite[1]:cite[2]
-    "tt1340800",   // Tetsuo: The Iron Man (1989) - Avangart body horror :cite[5]
-    "tt0092067",   // Castle in the Sky (1986) - Miyazaki'nin havacılık tutkusu :cite[2]
-    "tt0097814",   // Kiki's Delivery Service (1989) - Büyüme hikâyesi :cite[2]
-    "tt0113568",   // Ghost in the Shell (1995) - Siberpunk felsefesi :cite[2]
-    "tt0245429",   // Spirited Away (2001) - Miyazaki'nin Oscar ödüllü başyapıtı :cite[1]:cite[2]
-    "tt0347149",   // Howl's Moving Castle (2004) - Miyazaki'nin büyülü dünyası :cite[1]:cite[2]
-    "tt0876563",   // Ponyo (2008) - Miyazaki'nin deniz masalı :cite[2]:cite[5]
-    "tt1568921",   // The Secret World of Arrietty (2010) - Ghibli'nin minimalist şiirselliği :cite[1]:cite[2]
-    "tt1798188",   // From Up on Poppy Hill (2011) - 1960'lar Japonya'sında gençlik :cite[2]
-    "tt5311514"    // Your Name (2016) - Kültürel fenomen fantastik romantizm :cite[2]
-  ]
-},
-    {
-"listTitle": "Milestones of Turkish Cinema",
-"listSystemImage": "moon.stars.fill",
-"listColorHex": "E30A17",
-"displayOrder": 22,
-"movieIMDbIDs": [
-"tt0042040", // Vurun Kahpeye (1949) - Early social realism
-"tt0044834", // Kanun Namına (1952) - First Cannes entry
-"tt0058615", // Susuz Yaz (1964) - Golden Bear winner
-"tt0060925", // Ah Güzel İstanbul (1966) - Cinematic poetry
-"tt0063389", // Kızılırmak-Karakoyun (1967) - New Wave pioneer
-"tt0067240", // Vesikalı Yarim (1968) - Yeşilçam masterpiece
-"tt0068695", // Bir Türke Gönül Verdim (1969) - Cross-cultural landmark
-"tt0076697", // Selvi Boylum Al Yazmalım (1977) - Soviet co-production
-"tt0078320", // Sürü (1978) - Political allegory
-"tt0084920", // Yol (1982) - Palme d'Or winner
-"tt0092530", // Anayurt Oteli (1987) - Psychological drama classic
-"tt0101469", // Gizli Yüz (1992) - Magical realism
-"tt0116231", // Eşkıya (1996) - Revival of Turkish cinema
-"tt0119632", // Masumiyet (1997) - Berlin winner
-"tt0243842", // Mayıs Sıkıntısı (1999) - Political turmoil
-"tt0304868", // Uzak (2002) - Cannes Grand Prix
-"tt0476730", // Babam ve Oğlum (2005) - Record-breaking drama
-"tt0881862", // İklimler (2006) - Cannes FIPRESCI winner
-"tt1233381", // Üç Maymun (2008) - Best Director Cannes
-"tt1477837", // Bal (2010) - Golden Bear winner
-"tt1827487", // Bir Zamanlar Anadolu'da (2011) - Cannes Grand Prix
-"tt2380237", // Kelebeğin Rüyası (2013) - Antalya record sweeper
-"tt2758880", // Kış Uykusu (2014) - Palme d'Or winner
-"tt4374460", // Sarmaşık (2015) - Venice Horizons
-"tt5813916", // Ayla (2017) - Oscar nominee
-"tt6628102", // Ahlat Ağacı (2018) - Cannes competition
-"tt6967646", // Kız Kardeşler (2019) - Feminist landmark
-"tt10009936", // Özgür Dünya (2022) - Social critique
-"tt0048930", // Ölmeyen Aşk (1955) - Melodrama archetype
-"tt0058006", // Gurbet Kuşları (1964) - Migration drama
-"tt0060908", // Sevmek Zamanı (1965) - Visual poetry
-"tt0066819", // Kuyu (1968) - Class conflict study
-"tt0073621", // Endişe (1974) - Güney's political cinema
-"tt0073707", // Zavallılar (1975) - Neorealist influence
-"tt0081700", // Hazal (1979) - Female empowerment
-"tt0089730", // Adı Vasfiye (1985) - Feminist narrative
-"tt0106627", // İstanbul Kanatlarımın Altında (1996) - Historical epic
-"tt0237724", // Propaganda (1999) - Border conflict satire
-"tt0311429", // O da Beni Seviyor (2001) - Urban alienation
-"tt0424755", // Takva (2006) - Spiritual crisis
-"tt0443455", // Beynelmilel (2006) - Military coup comedy
-"tt1024945", // Pandora'nın Kutusu (2008) - Family dynamics
-"tt1139585", // Sonbahar (2008) - Caucasus conflict
-"tt1366338", // Çoğunluk (2010) - Social polarization
-"tt1604940", // Gözetleme Kulesi (2012) - Prison drama
-"tt2469294", // Sen Aydınlatırsın Geceyi (2013) - Experimental narrative
-"tt3174376", // Sivas (2014) - Venice Special Jury Prize
-"tt5029608", // Tereddüt (2017) - Claustrophobic thriller
-"tt7064490", // Kızım Gibi Kokuyorsun (2019) - LGBTQ+ representation
-"tt11291274", // Bağlılık Hasan (2021) - Directorial debut landmark
-"tt15255876" // Kara Tahta (2023) - Contemporary social issues
-]
-},
-  {
-  "listTitle": "Fransız Sinemasının Zirvesi: 50 Ölümsüz Başyapıt (1930-2013)",
-  "listSystemImage": "camera.macro",
-  "listColorHex": "0055A4",
-  "displayOrder": 23,
-  "movieIMDbIDs": [
-    "tt0023408",  // L'Atalante (1934)
-    "tt0025324",  // Le Jour Se Lève (1939)
-    "tt0031885",  // La Règle du Jeu (1939)
-    "tt0034588",  // Les Enfants du Paradis (1945)
-    "tt0037674",  // La Belle et la Bête (1946)
-    "tt0045156",  // Journal d'un Curé de Campagne (1951)
-    "tt0045555",  // Jeux Interdits (1952)
-    "tt0046478",  // Le Salaire de la Peur (1953)
-    "tt0046912",  // Les Diaboliques (1955)
-    "tt0046911",  // Rififi (1955)
-    "tt0048434",  // Les Vacances de M. Hulot (1953)
-    "tt0053198",  // Les 400 Coups (1959)
-    "tt0053472",  // Pickpocket (1959)
-    "tt0053779",  // Hiroshima mon amour (1959)
-    "tt0059749",  // Cléo de 5 à 7 (1961)
-    "tt0054215",  // L'Année Dernière à Marienbad (1961)
-    "tt0054632",  // Jules et Jim (1962)
-    "tt0055614",  // Le Mépris (1963)
-    "tt0062873",  // Belle de Jour (1967)
-    "tt0062229",  // Le Samouraï (1967)
-    "tt0064665",  // L'Enfance Nue (1968)
-    "tt0064040",  // L'Armée des Ombres (1969)
-    "tt0070460",  // Le Genou de Claire (1970)
-    "tt0070328",  // Le Cercle Rouge (1970)
-    "tt0070348",  // L'Argent de Poche (1976)
-    "tt0071877",  // La Maman et la Putain (1973)
-    "tt0077651",  // L'Argent des Autres (1978)
-    "tt0082846",  // Mon Oncle d'Amérique (1980)
-    "tt0085180",  // La Femme d'à Côté (1981)
-    "tt0090605",  // Au Revoir les Enfants (1987)
-    "tt0093191",  // Jean de Florette (1986)
-    "tt0096332",  // Manon des Sources (1986)
-    "tt0099674",  // Nikita (1990)
-    "tt0100263",  // Cyrano de Bergerac (1990)
-    "tt0108394",  // Trois Couleurs: Bleu (1993)
-    "tt0108390",  // Trois Couleurs: Blanc (1994)
-    "tt0108399",  // Trois Couleurs: Rouge (1994)
-    "tt0110607",  // La Haine (1995)
-    "tt0117110",  // Un Air de Famille (1996)
-    "tt0118842",  // On Connaît la Chanson (1997)
-    "tt0156801",  // Marius et Jeannette (1997)
-    "tt0120685",  // Ceux Qui M'Aiment Prendront le Train (1998)
-    "tt0139468",  // Place Vendôme (1998)
-    "tt0112471",  // La Cérémonie (1995)
-    "tt0211915",  // Amélie (2001)
-    "tt0250224",  // La Pianiste (2001)
-    "tt0395169",  // De battre mon cœur s'est arrêté (2005)
-    "tt0496511",  // Entre les Murs (2008)
-    "tt1235187",  // Un Prophète (2009)
-    "tt1675431",  // Intouchables (2011)
-    "tt2278871",  // Blue Is the Warmest Color (2013)
-    "tt2273392",  // Le Passé (2013)
-  ]
-},
-  {
-  "listTitle": "Bollywood Essentials: Tarihin, Kültürün ve Başyapıtların 50 İkonik Filmi",
-  "listSystemImage": "music.mic",
-  "listColorHex": "FF9933",
-  "displayOrder": 24,
-  "movieIMDbIDs": [
-    "tt0048947",   // Awaara (1951) :cite[6]
-    "tt0048473",   // Do Bigha Zameen (1953) :cite[6]
-    "tt0050870",   // Pyaasa (1957) :cite[6]
-    "tt0054098",   // Sujata (1959) :cite[6]
-    "tt0054130",   // Kaagaz Ke Phool (1959) :cite[3]
-    "tt0057345",   // Mughal-E-Azam (1960) :cite[3]
-    "tt0067241",   // Bobby (1973) :cite[2]:cite[3]
-    "tt0073707",   // Sholay (1975) :cite[3]
-    "tt0073582",   // Kabhi Kabhie (1976) :cite[6]
-    "tt0070518",   // Amar Akbar Anthony (1977) :cite[3]
-    "tt0081271",   // Umrao Jaan (1981) :cite[2]
-    "tt0083519",   // Coolie (1983) :cite[3]
-    "tt0095936",   // Qayamat Se Qayamat Tak (1988) :cite[3]
-    "tt0096028",   // Salaam Bombay! (1988) :cite[2]:cite[3]
-    "tt0097642",   // Parinda (1989) :cite[8]
-    "tt0101387",   // Agneepath (1990) :cite[3]
-    "tt0114108",   // Hum Aapke Hain Koun..! (1994) :cite[2]:cite[3]
-    "tt0112870",   // Dilwale Dulhania Le Jayenge (1995) :cite[3]:cite[6]
-    "tt0118845",   // Border (1997) :cite[3]
-    "tt0119210",   // Dil Se.. (1998) :cite[3]
-    "tt0157154",   // Satya (1998) :cite[8]
-    "tt0169102",   // Lagaan (2001) :cite[2]:cite[6]
-    "tt0169102",   // Dil Chahta Hai (2001) :cite[3]
-    "tt0252488",   // Monsoon Wedding (2001) :cite[8]
-    "tt0252493",   // Astitva (2000) :cite[8]
-    "tt0318849",   // Kal Ho Naa Ho (2003) :cite[3]
-    "tt0375611",   // Swades (2004) :cite[2]
-    "tt0439662",   // Black (2005) :cite[3]
-    "tt0449999",   // Rang De Basanti (2006) :cite[3]
-    "tt0456144",   // Lage Raho Munna Bhai (2006) :cite[2]:cite[3]
-    "tt0456144",   // Chak De! India (2007) :cite[3]
-    "tt0456144",   // Taare Zameen Par (2007) :cite[3]
-    "tt0473367",   // Om Shanti Om (2007) :cite[3]
-    "tt1185420",   // Udaan (2010) :cite[3]:cite[6]
-    "tt1263785",   // Zindagi Na Milegi Dobara (2011) :cite[2]:cite[6]
-    "tt1562872",   // Yeh Jawaani Hai Deewani (2013) :cite[2]
-    "tt1606385",   // Ship of Theseus (2013) :cite[8]
-    "tt1821394",   // Shahid (2013) :cite[8]
-    "tt2023965",   // Queen (2014) :cite[6]:cite[8]
-    "tt2213054",   // Ankhon Dekhi (2013) :cite[8]
-    "tt2338151",   // PK (2014) :cite[8]
-    "tt2779318",   // Haider (2014) :cite[8]
-    "tt3009772",   // Masaan (2015) :cite[6]:cite[8]
-    "tt3041478",   // Margarita, with a Straw (2015) :cite[8]
-    "tt4169250",   // Manjhi: The Mountain Man (2015) :cite[8]
-    "tt5074352",   // Dangal (2016) :cite[6]
-    "tt5935704",   // Pink (2016) :cite[8]
-    "tt7180544",   // Andhadhun (2018) :cite[8]
-    "tt8108202",   // Gully Boy (2019) :cite[2]
-    "tt8267604",   // Badhaai Ho (2018) :cite[8]
-    "tt8598654",   // Chhichhore (2019) :cite[8]
-    "tt10895576"   // Sardar Udham (2021) :cite[8]
-  ]
-},
-    {
-  "listTitle": "Iranian New Wave",
-  "listSystemImage": "video.badge.waveform",
-  "listColorHex": "239F40",
-  "displayOrder": 25,
-  "movieIMDbIDs": [
-    "tt0064290",   // The Cow (1969)
-    "tt0072190",   // Still Life (1974)
-    "tt0076580",   // The Report (1977)
-    "tt0093342",   // Where Is the Friend's Home? (1987)
-    "tt0092758",   // The Cyclist (1987)
-    "tt0099080",   // Bashu, the Little Stranger (1989)
-    "tt0099502",   // Close-Up (1990)
-    "tt0114890",   // The White Balloon (1995)
-    "tt0116385",   // Gabbeh (1996)
-    "tt0120265",   // Taste of Cherry (1997)
-    "tt0120380",   // The Mirror (1997)
-    "tt0118849",   // Children of Heaven (1997)
-    "tt0153994",   // The Apple (1998)
-    "tt0209463",   // The Wind Will Carry Us (1999)
-    "tt0191043",   // The Color of Paradise (1999)
-    "tt0255569",   // The Circle (2000)
-    "tt0250797",   // A Time for Drunken Horses (2000)
-    "tt0250798",   // The Day I Became a Woman (2000)
-    "tt0283431",   // Baran (2001)
-    "tt0300063",   // Kandahar (2001)
-    "tt0307370",   // Ten (2002)
-    "tt0371280",   // Crimson Gold (2003)
-    "tt0370132",   // At Five in the Afternoon (2003)
-    "tt0424227",   // Turtles Can Fly (2004)
-    "tt0441787",   // Iron Island (2005)
-    "tt0441773",   // The Willow Tree (2005)
-    "tt0492253",   // Offside (2006)
-    "tt0808417",   // Persepolis (2007)
-    "tt0947798",   // The Song of Sparrows (2008)
-    "tt1360860",   // About Elly (2009)
-    "tt1542486",   // The White Meadows (2009)
-    "tt1832382",   // A Separation (2011)
-    "tt1847713",   // This Is Not a Film (2011)
-    "tt2184155",   // Modest Reception (2012)
-    "tt2404461",   // The Past (2013)
-    "tt2503154",   // Closed Curtain (2013)
-    "tt3141912",   // Fish & Cat (2013)
-    "tt3762944",   // Tales (2014)
-    "tt2326554",   // A Girl Walks Home Alone at Night (2014)
-    "tt2991224",   // The President (2014)
-    "tt3709442",   // I'm Not Angry! (2014)
-    "tt4359416",   // Taxi (2015)
-    "tt4273292",   // Under the Shadow (2016)
-    "tt5186714",   // The Salesman (2016)
-    "tt5221584",   // Life and a Day (2016)
-    "tt6538136",   // A Man of Integrity (2017)
-    "tt7683690",   // 3 Faces (2018)
-    "tt10370710",  // The Night (2019)
-    "tt10096144",  // Just 6.5 (2019)
-    "tt13872248",  // Ballad of a White Cow (2020)
-    "tt13446176"   // A Hero (2021)
-  ]
-},
-    {
-  "listTitle": "Dark Scandinavian Dramas",
-  "listSystemImage": "snowflake",
-  "listColorHex": "0065BD",
-  "displayOrder": 26,
-  "movieIMDbIDs": [
-    "tt2106476",   // The Hunt (2012) - Danca :cite[4]:cite[5]
-    "tt1132620",   // Headhunters (2011) - Norveççe :cite[4]:cite[5]
-    "tt1132626",   // The Girl with the Dragon Tattoo (2009) - İsveççe :cite[4]:cite[5]
-    "tt2677064",   // In Order of Disappearance (2014) - Norveççe :cite[1]:cite[5]
-    "tt0120275",   // Festen (1998) - Danca :cite[4]
-    "tt0364961",   // Lilya 4-Ever (2002) - İsveççe :cite[5]
-    "tt5987402",   // Thelma (2017) - Norveççe :cite[5]
-    "tt0386784",   // Adam's Apples (2005) - Danca :cite[8]
-    "tt0274161",   // The Green Butchers (2003) - Danca :cite[8]
-    "tt0274155",   // Flickering Lights (2000) - Danca :cite[8]
-    "tt0019254",   // The Phantom Carriage (1921) - İsveççe :cite[7]
-    "tt0006480",   // Häxan (1922) - Danca :cite[7]
-    "tt4062536",   // The Worst Person in the World (2021) - Norveççe :cite[4]
-    "tt0119465",   // Insomnia (1997) - Norveççe :cite[5]
-    "tt0808185",   // Jar City (2006) - İzlandaca :cite[5]:cite[9]
-    "tt0354085",   // Daybreak (2003) - İsveççe :cite[7]
-    "tt0125973",   // Pusher (1996) - Danca :cite[8]
-    "tt0117880",   // Breaking the Waves (1996) - Danca :cite[4]
-    "tt0060827",   // Persona (1966) - İsveççe :cite[7]
-    "tt0050976",   // The Seventh Seal (1957) - İsveççe :cite[7]
-    "tt0055031",   // Winter Light (1963) - İsveççe :cite[7]
-    "tt0059113",   // Hunger (1966) - Norveççe :cite[7]
-    "tt0077711",   // Autumn Sonata (1978) - İsveççe :cite[7]
-    "tt0072417",   // Cries and Whispers (1972) - İsveççe :cite[7]
-    "tt0091760",   // Pelle the Conqueror (1987) - Danca :cite[2]
-    "tt0108390",   // The Best Intentions (1992) - İsveççe :cite[2]
-    "tt0117887",   // Jerusalem (1996) - İsveççe :cite[2]
-    "tt0118747",   // Beyond the Clouds (1998) - Fince :cite[2]
-    "tt0120263",   // The Kingdom (1994) - Danca :cite[7]
-    "tt0091039",   // Pathfinder (1987) - Samice :cite[7]
-    "tt0112745",   // Nightwatch (1994) - Danca :cite[8]
-    "tt0103649",   // The Ox (1991) - İsveççe :cite[7]
-    "tt0103776",   // House of Angels (1992) - İsveççe :cite[2]
-    "tt0106469",   // The Slingshot (1993) - İsveççe :cite[2]
-    "tt0120102",   // The 13th Warrior (1999) - İngilizce (İskandinav temalı) :cite[2]
-    "tt0110647",   // The Boys from St. Petri (1991) - Danca :cite[7]
-    "tt0117050",   // Jerusalem (1996) - İsveççe :cite[2]
-    "tt0120277",   // The Celebration (1998) - Danca :cite[4]
-    "tt0120389",   // The King's Game (2004) - Norveççe :cite[2]
-    "tt0138559",   // The Bench (2000) - Danca :cite[2]
-    "tt0168386",   // Aberdeen (2000) - Norveççe :cite[2]
-    "tt0243902",   // Fucking Åmål (1998) - İsveççe :cite[2]
-    "tt0289044",   // The Man Without a Past (2002) - Fince :cite[2]
-    "tt0349260",   // Dancer in the Dark (2000) - Danca :cite[4]
-    "tt0368171",   // Reconstruction (2003) - Danca :cite[2]
-    "tt0376968",   // Manslaughter (2005) - Danca :cite[2]
-    "tt0476794",   // Cold Lunch (2008) - Norveççe :cite[2]
-    "tt0837117",   // You, the Living (2007) - İsveççe :cite[2]
-    "tt0899106",   // Revanche (2008) - Avusturyaca (İskandinav temalı) :cite[2]
-    "tt10284566",  // The Innocents (2021) - Norveççe :cite[4]
-    "tt6027340",   // Border (2018) - İsveççe :cite[4]
-    "tt13494896"   // Godland (2022) - Danca :cite[4]
-  ]
-},
-    {
-  "listTitle": "1990'lar Sinemasının Dönüm Noktası: 50 Etkili Film",
-  "listSystemImage": "dial.min.fill",
-  "listColorHex": "9400D3",
-  "displayOrder": 27,
-  "movieIMDbIDs": [
-    "tt0109830",   // Forrest Gump (1994)
-    "tt0110912",   // Pulp Fiction (1994)
-    "tt0108052",   // Schindler's List (1993)
-    "tt0114369",   // Se7en (1995)
-    "tt0114814",   // The Usual Suspects (1995)
-    "tt0118799",   // Life Is Beautiful (1997)
-    "tt0133093",   // The Matrix (1999)
-    "tt0120815",   // Saving Private Ryan (1998)
-    "tt0119217",   // Good Will Hunting (1997)
-    "tt0113277",   // Heat (1995)
-    "tt0102926",   // The Silence of the Lambs (1991)
-    "tt0110413",   // Léon: The Professional (1994)
-    "tt0105236",   // Reservoir Dogs (1992)
-    "tt0114746",   // Twelve Monkeys (1995)
-    "tt0112573",   // Braveheart (1995)
-    "tt0117951",   // Trainspotting (1996)
-    "tt0116282",   // Fargo (1996)
-    "tt0105695",   // Unforgiven (1992)
-    "tt0107048",   // Groundhog Day (1993)
-    "tt0119488",   // L.A. Confidential (1997)
-    "tt0120586",   // American History X (1998)
-    "tt0116629",   // Independence Day (1996)
-    "tt0103064",   // Terminator 2: Judgment Day (1991)
-    "tt0120689",   // The Green Mile (1999)
-    "tt0111161",   // The Shawshank Redemption (1994)
-    "tt0180093",   // Requiem for a Dream (2000) *1999 festival prömiyeri
-    "tt0137523",   // Fight Club (1999)
-    "tt0110357",   // The Lion King (1994)
-    "tt0120737",   // The Lord of the Rings: The Fellowship of the Ring (2001) *Yanlış ID, düzelt: 0110475)
-    "tt0110357",   // Toy Story (1995) *Düzelt: tt0114709
-    "tt0119698",   // Princess Mononoke (1997)
-    "tt0103776",   // Batman Returns (1992)
-    "tt0107290",   // Jurassic Park (1993)
-    "tt0119654",   // Men in Black (1997)
-    "tt0110647",   // The Truman Show (1998)
-    "tt0116922",   // Lost Highway (1997)
-    "tt0113540",   // Before Sunrise (1995)
-    "tt0118715",   // The Big Lebowski (1998)
-    "tt0118849",   // Children of Heaven (1997)
-    "tt0116231",   // The Bandit (1996) *Türk filmi, IMDb: tt0116231
-    "tt0108399",   // True Romance (1993)
-    "tt0115320",   // Underground (1995)
-    "tt0116922",   // Close-Up (1990) *Düzelt: tt0099531
-    "tt0118694",   // In the Mood for Love (2000) *1999 prodüksiyon, Cannes 2000
-    "tt0113247",   // La Haine (1995)
-    "tt0115736",   // Lone Star (1996)
-    "tt0113531",   // Casino (1995)
-    "tt0119822",   // As Good As It Gets (1997)
-    "tt0120382",   // The Thin Red Line (1998)
-    "tt0169547"    // American Beauty (1999)
-  ]
-},
-    {
-  "listTitle": "Cult Classics of the 1980s",
-  "listSystemImage": "tv.and.hifispeaker.fill",
-  "listColorHex": "FD5B78",
-  "displayOrder": 28,
-  "movieIMDbIDs": [
-    "tt0082340",  // Escape from New York (1981) - John Carpenter'ın distopik aksiyonu.
-    "tt0084787",  // The Thing (1982) - Antarktik'te paranoia ve şekil değiştiren uzaylı.
-    "tt0080749",  // Blade Runner (1982) - Cyberpunk türünün görsel şölenle harmanlandığı başyapıt.
-    "tt0080684",  // Star Wars: Episode V - The Empire Strikes Back (1980) - İkonik uzay operası.
-    "tt0080455",  // The Blues Brothers (1980) - Müzikal komedinin kültleşmiş hali.
-    "tt0083929",  // Fanny and Alexander (1982) - Bergman'ın şiirsel aile portresi.
-    "tt0082484",  // Scanners (1981) - Cronenberg'in telepatik şiddet ve kafa patlamalarıyla ünlü filmi.
-    "tt0082096",  // The Boat (1981) - II. Dünya Savaşı denizaltı gerilimi.
-    "tt0082533",  // Mad Max 2: The Road Warrior (1981) - Post-apokaliptik çöl savaşları.
-    "tt0088847",  // Brazil (1985) - Terry Gilliam'ın bürokrasi karşıtı distopyası :cite[4].
-    "tt0087995",  // Re-Animator (1985) - H.P. Lovecraft uyarlaması, tabu yıkıcı zombi komedisi.
-    "tt0088258",  // Repo Man (1984) - Punk kültürü ve uzaylı komplosu karışımı absürtlük :cite[4]:cite[8].
-    "tt0083791",  // Videodrome (1983) - Televizyonun zihni ele geçirişini anlatan body horror.
-    "tt0088930",  // The Purple Rose of Cairo (1985) - Woody Allen'ın sinema perdesinden fırlayan romantizm.
-    "tt0093779",  // The Princess Bride (1987) - Masal anlatımının parodisi ve aşk destanı :cite[4].
-    "tt0089218",  // Goonies (1985) - Define peşinde maceraya atılan çocukların efsanesi.
-    "tt0093058",  // Full Metal Jacket (1987) - Kubrick'in Vietnam Savaşı'nın psikolojik çözümlemesi.
-    "tt0096256",  // Heathers (1989) - Karanlık komediyle lise katliamlarını birleştiren yapıt :cite[4].
-    "tt0090605",  // Aliens (1986) - Ridley Scott'ın klasiğine Cameron'dan askeri bilim kurgu dokunuşu.
-    "tt0092067",  // Big Trouble in Little China (1986) - Carpenter'ın Çin mitolojisi ve dövüş sanatları komedisi.
-    "tt0083907",  // Evil Dead (1981) - Raimi'nin low-budget korku şaheseri :cite[1].
-    "tt0093773",  // The Lost Boys (1987) - Genç vampirler, saç jölesi ve 80'ler cool'luğu.
-    "tt0087050",  // A Nightmare on Elm Street (1984) - Craven'in rüya katili Freddy Krueger'ı yarattığı film.
-    "tt0089175",  // Fright Night (1985) - Gençlerin komşu vampiri keşfetme hikayesi.
-    "tt0089173",  // The Fly (1986) - Cronenberg'in vücut deformasyonu ve trajik aşk öyküsü.
-    "tt0088763",  // Back to the Future (1985) - Zaman yolculuğu, DeLorean ve genç ebeveynlerle tanışma.
-    "tt0088846",  // The Breakfast Club (1985) - Lise detantion'ında keşfedilen insanlık :cite[1].
-    "tt0091042",  // Ferris Bueller's Day Off (1986) - Okuldan kaçışın sanatlaştırılmış hali.
-    "tt0080453",  // Airplane! (1980) - Felaket filmlerinin absürt parodisi.
-    "tt0087332",  // Ghostbusters (1984) - Şehri hayaletlerden kurtaran ekip ve unutulmaz şarkı.
-    "tt0086879",  // Amadeus (1984) - Mozart'ın müziği ve kıskançlığın görkemli portresi.
-    "tt0089007",  // This Is Spinal Tap (1984) - "11" ses seviyesiyle rock belgeseli parodisi :cite[4].
-    "tt0088128",  // Once Upon a Time in America (1984) - Leone'nin mafya epiği ve zamanda sıçrayış.
-    "tt0091763",  // Platoon (1986) - Vietnam'ın çamur ve psikolojik savaş gerçekliği.
-    "tt0088944",  // Come and See (1985) - II. Dünya Savaşı'nın acımasız yüzünü gösteren Belarus yapımı.
-    "tt0095765",  // Cinema Paradiso (1988) - Sinema tutkusu ve hatıraların İtalyan usulü anlatımı.
-    "tt0087843",  // Paris, Texas (1984) - Wim Wenders'ın çöl ve insan yalnızlığı şiiri.
-    "tt0087884",  // Blood Simple (1984) - Coen Kardeşler'in ilk filmi; cinayet ve tehlikeli yanlış anlamalar.
-    "tt0097216",  // Do the Right Thing (1989) - Spike Lee'nin ırksal gerilimi Brooklyn sokaklarında patlatması.
-    "tt0092007",  // Withnail and I (1987) - İşsiz aktörlerin taşra kaçamağı ve alkol destanı.
-    "tt0088680",  // Akira (1988) - Anime tarihini değiştiren, Neo-Tokyo distopyası :cite[4].
-    "tt0093010",  // Fatal Attraction (1987) - Aldatmanın tehlikeli sonuçları ve kaynayan tavşan.
-    "tt0089755",  // Tampopo (1985) - "Ramen Western" olarak bilinen yemek ve insan ilişkileri komedisi.
-    "tt0089424",  // Ran (1985) - Kurosawa'nın King Lear uyarlaması; samuraylar ve renk kodlu savaşlar.
-    "tt0095934",  // Wings of Desire (1987) - Berlin'de meleklerin gözünden insanlığı izlemek.
-    "tt0088939",  // The Color Purple (1985) - Spielberg'ün kadın dayanışması ve özgürlük mücadelesi dramaı.
-    "tt0088935",  // Clue (1985) - Bilboard oyunundan uyarlanan cinayet komedisi.
-    "tt0086491",  // The Evil Dead (1981) - Ormanda korkunç iblislerle mücadele eden gençler :cite[1].
-    "tt0093777",  // Near Dark (1987) - Kanadalı vampir çetesinin romantik westerni.
-    "tt0086984",  // Buckaroo Banzai (1984) - 8. boyuttan gelen tehdit ve rock'n'roll kahramanı :cite[8].
-    "tt0087981",  // Streets of Fire (1984) - Rock'n Roll, motosiklet çeteleri ve retro-fütürist sokaklar :cite[8].
-    "tt0089707",  // Miracle Mile (1988) - Yanlış alarmla başlayan nükleer kıyamet arayışı :cite[8].
-    "tt0089461",  // The Quiet Earth (1985) - Yalnız kalan bilim insanının dünyayı keşfi.
-    "tt0090190",  // They Live (1988) - Gözlüklerle görülen subliminal mesajlar ve uzaylı elitler :cite[1].
-    "tt0087004",  // Lifeforce (1985) - Uzaydan gelen enerji vampirleri ve Londra'nın istilası :cite[8].
-    "tt0090830",  // Sid and Nancy (1986) - Sex Pistols'un basçısının aşk ve uyuşturucu düşüşü :cite[4].
-    "tt0093389",  // The Hidden (1987) - Vücut değiştiren uzaylı suçlunun peşinde dedektifler :cite[8].
-    "tt0087015",  // The Last Dragon (1985) - "The Glow" arayan dövüş sanatçısının müzik ve aşk macerası.
-    "tt0089606",  // The Legend of Billie Jean (1985) - Adalet arayan genç kadının efsaneleşen direnişi.
-    "tt0096438",  // Who Framed Roger Rabbit (1988) - Animasyon ve canlı aksiyonun noir dedektiflikte buluşması.
-    "tt0090203",  // Thief (1981) - Michael Mann'ın hırsızların profesyonel dünyasına neo-noir bakışı.
-    "tt0086946",  // The Shining (1980) - Nicholson'ın buz gibi bakışlarıyla Overlook Oteli'nin dehşeti :cite[9].
-  ]
-},
-  {
-  "listTitle": "Silent Era Classics",
-  "listSystemImage": "film.circle.fill",
-  "listColorHex": "A9A9A9",
-  "displayOrder": 29,
-  "movieIMDbIDs": [
-    "tt0017925",   // The General (1926)
-    "tt0017136",   // Metropolis (1927)
-    "tt0018455",   // Sunrise: A Song of Two Humans (1927)
-    "tt0021746",   // City Lights (1931)
-    "tt0013442",   // Nosferatu (1922)
-    "tt0015864",   // The Gold Rush (1925)
-    "tt0019254",   // The Passion of Joan of Arc (1928)
-    "tt0010323",   // The Cabinet of Dr. Caligari (1920)
-    "tt0015648",   // Battleship Potemkin (1925)
-    "tt0015864",   // The Gold Rush (1925) - Chaplin klasiği
-    "tt0015881",   // Greed (1924)
-    "tt0018773",   // Pandora's Box (1929)
-    "tt0018806",   // The Crowd (1928)
-    "tt0019824",   // The Wind (1928)
-    "tt0018192",   // Napoléon (1927)
-    "tt0004972",   // The Birth of a Nation (1915)
-    "tt0006864",   // Intolerance (1916)
-    "tt0015324",   // Sherlock Jr. (1924)
-    "tt0015624",   // The Big Parade (1925)
-    "tt0014187",   // Safety Last! (1923)
-    "tt0016220",   // The Phantom of the Opera (1925)
-    "tt0010321",   // Broken Blossoms (1919)
-    "tt0015064",   // The Last Laugh (1924)
-    "tt0012349",   // The Kid (1921)
-    "tt0018455",   // Sunrise (1927) - Murnau başyapıtı
-    "tt0019254",   // The Passion of Joan of Arc (1928) - Dreyer'ın şaheseri
-    "tt0020530",   // Earth (1930)
-    "tt0015532",   // Ben-Hur: A Tale of the Christ (1925)
-    "tt0015361",   // The Thief of Bagdad (1924)
-    "tt0016847",   // Flesh and the Devil (1927)
-    "tt0014429",   // Our Hospitality (1923)
-    "tt0018578",   // Wings (1927)
-    "tt0019760",   // Man with a Movie Camera (1929)
-    "tt0013427",   // Nanook of the North (1922)
-    "tt0016845",   // Faust (1926)
-    "tt0011841",   // Way Down East (1920)
-    "tt0013257",   // Häxan (1922)
-    "tt0019071",   // The Man Who Laughs (1928)
-    "tt0017075",   // The Unknown (1927)
-    "tt0018742",   // The Cameraman (1928)
-    "tt0018773",   // Pandora's Box (1929) - Louise Brooks ikonu
-    "tt0018982",   // Steamboat Bill, Jr. (1928)
-    "tt0018515",   // The Circus (1928)
-    "tt0020018",   // Un Chien Andalou (1929)
-    "tt0014181",   // The Hunchback of Notre Dame (1923)
-    "tt0012349",   // The Kid (1921) - Chaplin'in duygusal klasiği
-    "tt0017136",   // Metropolis (1927) - Restore versiyon
-    "tt0018037",   // October (Ten Days That Shook the World) (1928)
-    "tt0008899",   // Cabiria (1914)
-    "tt0013422",   // Robin Hood (1922)
-    "tt0018749"    // The Docks of New York (1928)
-  ]
-},
-    {
-  "listTitle": "Trending on Social Media",
-  "listSystemImage": "dot.radiowaves.right",
-  "listColorHex": "1DA1F2",
-  "displayOrder": 30,
-  "movieIMDbIDs": [
-    "tt10954984", // Nope (2022)
-    "tt11138512", // The Northman (2022)
-    "tt11286314", // Don't Look Up (2021)
-    "tt10872600", // Spider-Man: No Way Home (2021)
-    "tt3480822",  // Black Widow (2021)
-    "tt9376612",  // Shang-Chi (2021)
-    "tt9032400",  // Eternals (2021)
-    "tt1160419",  // Dune (2021)
-    "tt4244994",  // The Suicide Squad (2021)
-    "tt3228774",  // Cruella (2021)
-    "tt10366460", // CODA (2021)
-    "tt11271038", // Licorice Pizza (2021)
-    "tt12536294", // Spirited (2022)
-    "tt6710474",  // Everything Everywhere All at Once (2022)
-    "tt11245972", // Scream (2022)
-    "tt13320622", // The Lost City (2022)
-    "tt1345836",  // The Batman (2022)
-    "tt10731256", // Don't Worry Darling (2022)
-    "tt10648342", // Thor: Love and Thunder (2022)
-    "tt5113044",  // Minions: The Rise of Gru (2022)
-    "tt14109724", // Glass Onion (2022)
-    "tt7322224",  // Triangle of Sadness (2022)
-    "tt3915174",  // Puss in Boots: The Last Wish (2022)
-    "tt13560574", // X (2022)
-    "tt11866324", // Prey (2022)
-    "tt12593682", // Bullet Train (2022)
-    "tt10362612", // Weird: The Al Yankovic Story (2022)
-    "tt13610562", // The Menu (2022)
-    "tt1464335",  // Uncharted (2022)
-    "tt13320662", // The Adam Project (2022)
-    "tt9419884",  // Doctor Strange 2 (2022)
-    "tt11286314", // Don't Look Up (2021)
-    "tt10886166", // 365 Days: This Day (2022)
-    "tt15097216", // Jurassic World Dominion (2022)
-    "tt10752004", // Jackass Forever (2022)
-    "tt13833688", // The Black Phone (2021)
-    "tt11291274", // The Woman King (2022)
-    "tt15325794", // Marry Me (2022)
-    "tt2463208",  // The Adam Project (2022)
-    "tt3704428",  // Elvis (2022)
-    "tt10293406", // Lightyear (2022)
-    "tt12412888", // Sonic the Hedgehog 2 (2022)
-    "tt12530246", // Jurassic World: Camp Cretaceous (2020–2022)
-    "tt8097030",  // Turning Red (2022)
-    "tt2382320",  // No Time to Die (2021)
-    "tt3581652",  // West Side Story (2021)
-    "tt11271038", // Licorice Pizza (2021)
-    "tt11245972", // Scream (2022)
-    "tt4123432",  // Fantastic Beasts 3 (2022)
-    "tt10366460", // CODA (2021)
-    "tt5311514",  // Your Name (2016) :cite[4]:cite[8]:cite[10]
-    "tt4154796"   // Avengers: Endgame (2019) :cite[9]
-  ]
-}
-,
-    {
-  "listTitle": "Most Watched This Month",
-  "listSystemImage": "play.tv.fill",
-  "listColorHex": "E50914",
-  "displayOrder": 31,
-  "movieIMDbIDs": [
-    "tt11152168",   // Materialists (2025)
-    "tt17455666",   // F1 The Movie (2025)
-    "tt14230458",   // Jurassic World Rebirth (2025)
-    "tt10366206",   // John Wick: Chapter 4 (2023)
-    "tt15398776",   // Oppenheimer (2023)
-    "tt9362722",    // Spider-Man: Across the Spider-Verse (2023)
-    "tt10954600",   // Barbie (2023)
-    "tt1517268",    // Barbie (2023)
-    "tt6718170",    // The Super Mario Bros. Movie (2023)
-    "tt10172266",   // The Old Guard (2020)
-    "tt10872600",   // Spider-Man: No Way Home (2021)
-    "tt9114286",    // Black Panther: Wakanda Forever (2022)
-    "tt10648342",   // Thor: Love and Thunder (2022)
-    "tt13623148",   // M3GAN (2022)
-    "tt10298810",   // Lightyear (2022)
-    "tt12530246",   // Jurassic World Dominion (2022)
-    "tt1877830",    // The Batman (2022)
-    "tt10304142",   // Avatar: The Way of Water (2022)
-    "tt1745960",    // Top Gun: Maverick (2022)
-    "tt11245972",   // Scream (2022)
-    "tt9032400",    // Eternals (2021)
-    "tt1160419",    // Dune (2021)
-    "tt10838180",   // The Matrix Resurrections (2021)
-    "tt6443346",    // Black Widow (2021)
-    "tt3480822",    // Black Widow (2021)
-    "tt9376612",    // Shang-Chi and the Legend of the Ten Rings (2021)
-    "tt11671006",   // Uncharted (2022)
-    "tt11271038",   // Licorice Pizza (2021)
-    "tt11286314",   // Don't Look Up (2021)
-    "tt11214590",   // West Side Story (2021)
-    "tt12618926",   // House of Gucci (2021)
-    "tt10731256",   // Don't Worry Darling (2022)
-    "tt1345836",    // The Dark Knight Rises (2012)
-    "tt0816692",    // Interstellar (2014)
-    "tt1375666",    // Inception (2010)
-    "tt4154756",    // Avengers: Infinity War (2018)
-    "tt4154796",    // Avengers: Endgame (2019)
-    "tt0111161",    // The Shawshank Redemption (1994)
-    "tt0068646",    // The Godfather (1972)
-    "tt0133093",    // The Matrix (1999)
-    "tt0172495",    // Gladiator (2000)
-    "tt0482571",    // The Prestige (2006)
-    "tt0110357",    // The Lion King (1994)
-    "tt0317219",    // Cars (2006)
-    "tt0120338",    // Titanic (1997)
-    "tt0109830",    // Forrest Gump (1994)
-    "tt0120689",    // Green Mile (1999)
-    "tt0110413",    // Léon: The Professional (1994)
-    "tt0088763",    // Back to the Future (1985)
-    "tt0099685"     // Goodfellas (1990)
-  ]
-},
-    {
-  "listTitle": "Academy Award Winners - Best Picture",
-  "listSystemImage": "trophy.fill",
-  "listColorHex": "D4AF37",
-  "displayOrder": 32,
-  "movieIMDbIDs": [
-    "tt31615484", // Anora (2025) :cite[6]
-    "tt15398776", // Oppenheimer (2024) :cite[7]
-    "tt17076046", // Everything Everywhere All at Once (2023) :cite[8]
-    "tt10366460", // CODA (2022) :cite[9]
-    "tt9770150",  // Nomadland (2021) :cite[10]
-    "tt6751668",  // Parasite (2020) :cite[5]
-    "tt6966692",  // Green Book (2019)
-    "tt5580390",  // The Shape of Water (2018)
-    "tt4995790",  // Moonlight (2017)
-    "tt1895587",  // Spotlight (2016)
-    "tt2024544",  // 12 Years a Slave (2014)
-    "tt1392214",  // Argo (2013)
-    "tt1658820",  // The Artist (2012)
-    "tt1028532",  // The King's Speech (2011)
-    "tt0878804",  // The Hurt Locker (2010)
-    "tt1010048",  // Slumdog Millionaire (2009)
-    "tt0407887",  // The Departed (2007)
-    "tt0338564",  // Crash (2006)
-    "tt0167260",  // The Lord of the Rings: The Return of the King (2004)
-    "tt0268978",  // A Beautiful Mind (2002)
-    "tt0172495",  // Gladiator (2001)
-    "tt0169547",  // American Beauty (2000)
-    "tt0120338",  // Titanic (1998)
-    "tt0118799",  // Life Is Beautiful (1999)
-    "tt0119217",  // Good Will Hunting (1998)
-    "tt0112573",  // Braveheart (1996)
-    "tt0109830",  // Forrest Gump (1995)
-    "tt0108052",  // Schindler's List (1993)
-    "tt0102926",  // The Silence of the Lambs (1992)
-    "tt0099348",  // Dances with Wolves (1991)
-    "tt0096438",  // Driving Miss Daisy (1990)
-    "tt0095953",  // Rain Man (1989)
-    "tt0087843",  // Once Upon a Time in America (1984)
-    "tt0078788",  // Apocalypse Now (1979)
-    "tt0071562",  // The Godfather Part II (1974)
-    "tt0068646",  // The Godfather (1972)
-    "tt0067093",  // Midnight Cowboy (1969)
-    "tt0059742",  // The Sound of Music (1965)
-    "tt0058331",  // My Fair Lady (1964)
-    "tt0056172",  // Lawrence of Arabia (1962)
-    "tt0055031",  // Judgment at Nuremberg (1961)
-    "tt0053793",  // Gigi (1958)
-    "tt0049833",  // Marty (1955)
-    "tt0047296",  // On the Waterfront (1954)
-    "tt0043278",  // An American in Paris (1951)
-    "tt0042192",  // All the King's Men (1949)
-    "tt0040416",  // Hamlet (1948)
-    "tt0038787",  // Gentleman's Agreement (1947)
-    "tt0036872",  // The Best Years of Our Lives (1946)
-    "tt0037120",  // The Lost Weekend (1945)
-    "tt0036868",  // Going My Way (1944)
-    "tt0034583",  // Casablanca (1943)
-    "tt0031381",  // Gone with the Wind (1939)
-    "tt0029146"   // The Life of Emile Zola (1937)
-  ]
-},
-    {
-      "listTitle": "Cannes Palme d'Or Winners",
-      "listSystemImage": "camera.viewfinder",
-      "listColorHex": "A67B5B",
-      "displayOrder": 33,
-      "movieIMDbIDs": [
-        "tt6751668", "tt7991208", "tt10648946", "tt3089630", "tt0253474", "tt0110912", "tt0075314", "tt0084934", "tt0078788", "tt0071315",
-        "tt0056172", "tt0054047", "tt0051808", "tt0046268", "tt0041959", "tt0101257", "tt0108529", "tt0112461", "tt0114168", "tt0116895",
-        "tt0120382", "tt0185016", "tt0265343", "tt0364569", "tt0387538", "tt0454824", "tt0464854", "tt1034409", "tt1411238", "tt1796939",
-        "tt0041959", "tt0045935", "tt0046478", "tt0053779", "tt0055601", "tt0057091", "tt0060176", "tt0066026", "tt0067140", "tt0070643",
-        "tt0078421", "tt0080979", "tt0082222", "tt0084335", "tt0087884", "tt0089011", "tt0091530", "tt0093943", "tt0093713", "tt0098724"
-      ]
-    },
-  {
-      "listTitle": "BAFTA Best Film Winners",
-      "listSystemImage": "medal",
-      "listColorHex": "34568B",
-      "displayOrder": 34,
-      "movieIMDbIDs": [
-        "tt20215234", "tt15398776", "tt1016150", "tt10293406", "tt9770150", "tt8579674", "tt6155172", "tt5027774", "tt3783958", "tt1663202",
-        "tt1895587", "tt2024544", "tt1504320", "tt0878804", "tt0783233", "tt0436697", "tt0411008", "tt0407887", "tt0338564", "tt0167260",
-        "tt0253474", "tt0172495", "tt0169547", "tt0120855", "tt0116209", "tt0111107", "tt0108052", "tt0102057", "tt0099685", "tt0097165",
-        "tt0093437", "tt0091867", "tt0089755", "tt0083866", "tt0082158", "tt0080678", "tt0078788", "tt0075686", "tt0073486", "tt0071853",
-        "tt0068646", "tt0064665", "tt0061811", "tt0060827", "tt0059742", "tt0058331", "tt0056172", "tt0055031", "tt0053793", "tt0049833"
-      ]
-    },
-    {
-      "listTitle": "Holiday & Christmas-Themed Movies",
-      "listSystemImage": "gift.fill",
-      "listColorHex": "C82D35",
-      "displayOrder": 35,
-      "movieIMDbIDs": [
-        "tt0038650", "tt0095016", "tt0107120", "tt0314331", "tt0319343", "tt0108399", "tt0088258", "tt0096061", "tt0034583", "tt0117665",
-        "tt0368447", "tt0457939", "tt0037059", "tt0046534", "tt0089679", "tt1448755", "tt0091369", "tt0307987", "tt1001508", "tt1152836",
-        "tt2360341", "tt4458206", "tt2184135", "tt6981954", "tt10919420", "tt0039628", "tt0338348", "tt0077869", "tt0085334", "tt0107688",
-        "tt0116683", "tt0240890", "tt0373469", "tt0391220", "tt0409831", "tt0483726", "tt0762125", "tt0834001", "tt1045658", "tt1230414",
-        "tt1598822", "tt1650062", "tt1655441", "tt1967545", "tt2381941", "tt2567026", "tt2802144", "tt3521164", "tt4007502", "tt6142314"
-      ]
-    },
-    {
-      "listTitle": "Time Travel Movies",
-      "listSystemImage": "clock.arrow.2.circlepath",
-      "listColorHex": "00A99D",
-      "displayOrder": 36,
-      "movieIMDbIDs": [
-      "tt0816692", "tt0088763", "tt0088247", "tt1276104", "tt0390384", "tt0246578", "tt1631867", "tt2194499", "tt2397535", "tt2543164",
-      "tt0054387", "tt0103064", "tt0111282", "tt0405094", "tt0482571", "tt1436045", "tt0910970", "tt1234548", "tt1270798", "tt1667353",
-      "tt2660888", "tt2975590", "tt3464902", "tt3530002", "tt4572820", "tt4730986", "tt4972582", "tt6146588", "tt6269368", "tt7984734",
-      "tt8367814", "tt6723592", "tt5605916", "tt3416532", "tt2567026", "tt2245084", "tt2179136", "tt1477834", "tt1182345", "tt0481499",
-      "tt0414993", "tt0407304", "tt0362227", "tt0120663", "tt0107048", "tt0100740", "tt0080510", "tt0114746", "tt0185183", "tt2280388"
+    "listTitle": "Top Psychological Thrillers",
+    "listSystemImage": "lock.shield.fill",
+    "listColorHex": "2C3E50",
+    "displayOrder": 8,
+    "movieIMDbIDs": [
+      "tt0137523", "tt0209144", "tt1130884", "tt1375666", "tt0133093", "tt0167404", "tt0120382", "tt0102926", "tt0054215", "tt0364569", "tt2582802", "tt0482571", "tt0078748", "tt0110413", "tt0099674", "tt0078788", "tt0047396", "tt0114369", "tt0114814", "tt0112573", "tt0052357", "tt0119396", "tt0034583", "tt0053125", "tt0103064", "tt0082971", "tt0086190", "tt0119488", "tt0068646", "tt0060196", "tt0075314", "tt0073486", "tt0095765", "tt1675434", "tt0099685", "tt0043014", "tt0090605", "tt0088763", "tt0032553", "tt0076759", "tt0056172", "tt0083658", "tt0033467", "tt1853728", "tt0405094", "tt0407887", "tt0081505", "tt0052357", "tt7286456", "tt5052448", "tt6751668", "tt1020072", "tt0361748", "tt0105236", "tt0111161", "tt4154756", "tt0816692", "tt0468569"
     ]
-    },
-    {
-      "listTitle": "Dystopian & Post-Apocalyptic Worlds",
-      "listSystemImage": "building.2.fill",
-      "listColorHex": "696969",
-      "displayOrder": 37,
-      "movieIMDbIDs": [
-      "tt0083658", "tt0133093", "tt1392190", "tt0206634", "tt1706620", "tt0898367", "tt0910970", "tt0434409", "tt1136608", "tt0087803",
-      "tt0816711", "tt0343818", "tt1598778", "tt0082694", "tt0067855", "tt0070723", "tt0079501", "tt0086250", "tt0088847", "tt0343737",
-      "tt0389722", "tt0408790", "tt0892791", "tt10271386", "tt1104001", "tt1216501", "tt1289401", "tt1327194", "tt1379182", "tt1535108",
-      "tt2980516", "tt0470752", "tt0780504", "tt0970179", "tt1236472", "tt1396484", "tt1454468", "tt1631867", "tt1790885", "tt1853728",
-      "tt1951264", "tt1951265", "tt1951266", "tt2070876", "tt2229499", "tt2267998", "tt2557478", "tt3469046", "tt3659388", "tt4016454"
+  },
+  {
+    "listTitle": "Must-Watch Horror Films",
+    "listSystemImage": "drop.triangle",
+    "listColorHex": "8B0000",
+    "displayOrder": 9,
+    "movieIMDbIDs": [
+      "tt0081505", "tt0078748", "tt0076759", "tt0084787", "tt0073195", "tt0082971", "tt0077766", "tt0080684", "tt0102926", "tt0107290", "tt0117571", "tt0120737", "tt0167404", "tt0266697", "tt0361862", "tt0387564", "tt0433362", "tt0482606", "tt0795176", "tt0837563", "tt0875034", "tt0947798", "tt1020072", "tt1212419", "tt1457767", "tt1489889", "tt1670345", "tt2321549", "tt2582846", "tt2667380", "tt3280916", "tt3397884", "tt3811906", "tt4034228", "tt5013056", "tt5052448", "tt5638642", "tt5700672", "tt5814060", "tt6856242", "tt7784604", "tt10999120", "tt13409218", "tt1798632", "tt21192142", "tt21261712", "tt21334870", "tt33593572", "tt3486056", "tt9681270"
     ]
-    },
-    {
-      "listTitle": "Single-Night Storyline Films",
-      "listSystemImage": "moon.fill",
-      "listColorHex": "483D8B",
-      "displayOrder": 38,
-      "movieIMDbIDs": [
-      "tt0083658", "tt0133093", "tt1392190", "tt0206634", "tt1706620", "tt0898367", "tt0910970", "tt0434409", "tt1136608", "tt0087803",
-      "tt0816711", "tt0343818", "tt1598778", "tt0082694", "tt0067855", "tt0070723", "tt0079501", "tt0086250", "tt0088847", "tt0343737",
-      "tt0389722", "tt0408790", "tt0892791", "tt10271386", "tt1104001", "tt1216501", "tt1289401", "tt1327194", "tt1379182", "tt1535108",
-      "tt2980516", "tt0470752", "tt0780504", "tt0970179", "tt1236472", "tt1396484", "tt1454468", "tt1631867", "tt1790885", "tt1853728",
-      "tt1951264", "tt1951265", "tt1951266", "tt2070876", "tt2229499", "tt2267998", "tt2557478", "tt3469046", "tt3659388", "tt4016454"
+  },
+  {
+    "listTitle": "Action & Adventure Hits",
+    "listSystemImage": "figure.walk.motion",
+    "listColorHex": "FF8C00",
+    "displayOrder": 10,
+    "movieIMDbIDs": [
+      "tt0093779", "tt0080684", "tt0361748", "tt0133093", "tt1375666", "tt0086190", "tt4154796", "tt1160419", "tt9362722", "tt0816692", "tt0172495", "tt0892769", "tt0107290", "tt0087469", "tt0097576", "tt0076759", "tt0082971", "tt0111161", "tt0468569", "tt0120737", "tt0167260", "tt0110357", "tt0088247", "tt0103064", "tt0116629", "tt0325980", "tt0417741", "tt0330373", "tt0241527", "tt0317705", "tt0073195", "tt0087332", "tt0095016", "tt0117060", "tt0212720", "tt0120591", "tt0113497", "tt0083944", "tt0082158", "tt0082096", "tt0078442", "tt0090605", "tt0062622", "tt0057076", "tt0056172", "tt0047478", "tt0034583", "tt0029583", "tt0029843", "tt0032138"
     ]
-    },
+  },
+  {
+    "listTitle": "Tearjerker Dramas",
+    "listSystemImage": "theatermasks.fill",
+    "listColorHex": "4682B4",
+    "displayOrder": 11,
+    "movieIMDbIDs": [
+      "tt3315342", "tt4550098", "tt6966692", "tt0120338", "tt1517451", "tt19770238", "tt0281358", "tt0816442", "tt5363618", "tt0116483", "tt8968848", "tt0454921", "tt0816692", "tt0398808", "tt25839200", "tt10633456", "tt0088247", "tt0094737", "tt0095327", "tt0098384", "tt0102492", "tt0243655", "tt0268978", "tt0335266", "tt0365737", "tt0449059", "tt0458352", "tt0758758", "tt1010048", "tt1028532", "tt1045658", "tt1065073", "tt2582802", "tt3170832", "tt3783958", "tt4034228", "tt4846340", "tt5580390", "tt5726616", "tt6751668", "tt7653254", "tt8721424", "tt10366460", "tt11286314", "tt9100054", "tt0112579", "tt0109830", "tt0110357", "tt0332280", "tt0266543"
+    ]
+  },
+  {
+    "listTitle": "Classic Romantic Comedies",
+    "listSystemImage": "heart.fill",
+    "listColorHex": "FF69B4",
+    "displayOrder": 12,
+    "movieIMDbIDs": [
+      "tt0023042", "tt0030993", "tt0025316", "tt0034583", "tt0032551", "tt0031381", "tt0038650", "tt0041452", "tt0044391", "tt0048281", "tt0051201", "tt0052618", "tt0053125", "tt0053604", "tt0054698", "tt0061722", "tt0068646", "tt0075686", "tt0079417", "tt0080339", "tt0082971", "tt0083922", "tt0085333", "tt0088258", "tt0092695", "tt0093779", "tt0093409", "tt0096056", "tt0096874", "tt0097165", "tt0098635", "tt0099674", "tt0101410", "tt0109830", "tt0112579", "tt0116695", "tt0119217", "tt0119822", "tt0120338", "tt0120689", "tt0138097", "tt0147800", "tt0151738", "tt0162222", "tt0245844", "tt0268978", "tt0332280", "tt0375679", "tt0407887", "tt1049413"
+    ]
+  },
+  {
+    "listTitle": "Great Animated Films",
+    "listSystemImage": "wand.and.stars",
+    "listColorHex": "1E90FF",
+    "displayOrder": 13,
+    "movieIMDbIDs": [
+      "tt0043278", "tt0054698", "tt0061852", "tt0076363", "tt0081505", "tt0088814", "tt0097757", "tt0101414", "tt0107614", "tt0110357", "tt0112697", "tt0119282", "tt0120855", "tt0198781", "tt0245429", "tt0266543", "tt0298148", "tt0347149", "tt0363771", "tt0382932", "tt0398286", "tt0435761", "tt0892769", "tt1049413", "tt10872600", "tt12801262", "tt1464335", "tt1485796", "tt1490017", "tt1700841", "tt1877830", "tt1979376", "tt2245084", "tt2267968", "tt2294629", "tt2380307", "tt2948356", "tt3040964", "tt3606756", "tt3689498", "tt4425200", "tt4624424", "tt5109280", "tt5884796", "tt6139732", "tt7146812", "tt7488208", "tt7975244", "tt8115900", "tt8364368", "tt9660502"
+    ]
+  },
+  {
+    "listTitle": "Based on True Stories",
+    "listSystemImage": "book.fill",
+    "listColorHex": "A0522D",
+    "displayOrder": 14,
+    "movieIMDbIDs": [
+      "tt0108052", "tt1504320", "tt0081398", "tt6966692", "tt10272386", "tt0993846", "tt0268978", "tt2024544", "tt2582802", "tt2119532", "tt10285296", "tt1355683", "tt1213644", "tt0443272", "tt1707386", "tt1727824", "tt6155172", "tt4975722", "tt4276820", "tt0433412", "tt0363163", "tt0758758", "tt0892769", "tt1798709", "tt4550098", "tt3315342", "tt19623194", "tt29062174", "tt14209916", "tt1136617", "tt1016150", "tt0082979", "tt0353969", "tt0088847", "tt0114814", "tt0266697", "tt2380307", "tt5580390", "tt1392190", "tt1877830", "tt0816692", "tt0405159", "tt0268978", "tt0338013", "tt4633694", "tt10954652", "tt12888412", "tt0118799", "tt0353969", "tt0072684", "tt4015500", "tt8503618"
+    ]
+  },
+  {
+    "listTitle": "Top Book-to-Film Adaptations",
+    "listSystemImage": "bookmark.fill",
+    "listColorHex": "8B4513",
+    "displayOrder": 15,
+    "movieIMDbIDs": [
+      "tt0120737", "tt0241527", "tt0031381", "tt0068646", "tt1392170", "tt0111161", "tt0056592", "tt0372784", "tt0109830", "tt0118799", "tt0137523", "tt0078748", "tt0047478", "tt0054215", "tt0093058", "tt0317248", "tt0102926", "tt0078788", "tt3315342", "tt4550098", "tt6966692", "tt0110413", "tt0062622", "tt0482571", "tt0209144", "tt2582802", "tt0053125", "tt0112573", "tt0032138", "tt0075314", "tt0045152", "tt0022100", "tt0017136", "tt0095765", "tt0052357", "tt0066921", "tt0086190", "tt1853728", "tt0086250", "tt0073486", "tt0405159", "tt0047396", "tt0090605", "tt0119488", "tt0021749", "tt0080678", "tt0052618", "tt0051201", "tt0108052", "tt0076759"
+    ]
+  },
+  {
+    "listTitle": "Christopher Nolan Collection",
+    "listSystemImage": "camera.filters",
+    "listColorHex": "2C3E50",
+    "displayOrder": 16,
+    "movieIMDbIDs": [
+      "tt0154506", "tt0209144", "tt0278504", "tt0372784", "tt0482571", "tt0468569", "tt1375666", "tt1345836", "tt0816692", "tt5013056", "tt6723592", "tt15398776"
+    ]
+  },
+  {
+    "listTitle": "Martin Scorsese's Crime Films",
+    "listSystemImage": "briefcase.fill",
+    "listColorHex": "708090",
+    "displayOrder": 17,
+    "movieIMDbIDs": [
+      "tt0069818", "tt0075314", "tt0099685", "tt0101540", "tt0112641", "tt0265844", "tt0407887", "tt0993846", "tt5537002"
+    ]
+  },
+  {
+    "listTitle": "For Tarantino Fans",
+    "listSystemImage": "quote.bubble.fill",
+    "listColorHex": "E6D500",
+    "displayOrder": 18,
+    "movieIMDbIDs": [
+      "tt0105236", "tt0110912", "tt0119396", "tt0266697", "tt0378194", "tt1028528", "tt0361748", "tt1853728", "tt3460252", "tt7131622", "tt0108399", "tt0116367", "tt0060196", "tt0065724", "tt0072890", "tt0071360", "tt0074252", "tt0086250", "tt0094073", "tt0101841", "tt0105695", "tt0110857", "tt0281686", "tt0330771", "tt0425210", "tt0092106", "tt0063462", "tt0111495", "tt0114734", "tt0219854", "tt0181875", "tt0266308", "tt0118749", "tt0106677", "tt0137523", "tt0133093", "tt0365748", "tt0111257", "tt0217862", "tt0078788", "tt0074285", "tt0073195", "tt0075314", "tt0057115", "tt0053221", "tt0082085", "tt0068646", "tt0076759", "tt0082971", "tt0246578"
+    ]
+  },
+  {
+    "listTitle": "Pedro Almodóvar's Vibrant Dramas",
+    "listSystemImage": "paintpalette.fill",
+    "listColorHex": "E3001B",
+    "displayOrder": 19,
+    "movieIMDbIDs": [
+      "tt0095675", "tt0185125", "tt0287467", "tt0441909", "tt0913425", "tt1189073", "tt2024490", "tt8291806", "tt12680684", "tt0119567", "tt0275491", "tt0093412", "tt0102118", "tt0088282"
+    ]
+  },
+  {
+    "listTitle": "Meryl Streep's Best Performances",
+    "listSystemImage": "person.fill.viewfinder",
+    "listColorHex": "C0C0C0",
+    "displayOrder": 20,
+    "movieIMDbIDs": [
+      "tt0079417", "tt0084707", "tt0089755", "tt0100395", "tt0112579", "tt0268126", "tt0458352", "tt0918927", "tt1135503", "tt1007029"
+    ]
+  },
+  {
+    "listTitle": "Masterpieces of Japanese Cinema",
+    "listSystemImage": "sun.max.fill",
+    "listColorHex": "BC002D",
+    "displayOrder": 21,
+    "movieIMDbIDs": [
+      "tt0245429", "tt0119698", "tt0347149", "tt0047478", "tt0095327", "tt5311514", "tt0266697", "tt0094625", "tt0087544", "tt0042876", "tt0092067", "tt0113568", "tt0097814", "tt0876563", "tt0089881", "tt0055630", "tt1568921", "tt0096283", "tt1340800", "tt0101680", "tt0096283", "tt1798188", "tt5311514", "tt0245429", "tt0087544", "tt0092067", "tt0097814", "tt0095327", "tt0113568", "tt0119698", "tt0347149", "tt0876563", "tt1568921", "tt1798188", "tt5311514", "tt0042876", "tt0047478", "tt0055630", "tt0089881", "tt0094625", "tt0266697", "tt1340800", "tt0092067", "tt0097814", "tt0113568", "tt0245429", "tt0347149", "tt0876563", "tt1568921", "tt1798188", "tt5311514"
+    ]
+  },
+  {
+    "listTitle": "Milestones of Turkish Cinema",
+    "listSystemImage": "moon.stars.fill",
+    "listColorHex": "E30A17",
+    "displayOrder": 22,
+    "movieIMDbIDs": [
+      "tt0042040", "tt0044834", "tt0058615", "tt0060925", "tt0063389", "tt0067240", "tt0068695", "tt0076697", "tt0078320", "tt0084920", "tt0092530", "tt0101469", "tt0116231", "tt0119632", "tt0243842", "tt0304868", "tt0476730", "tt0881862", "tt1233381", "tt1477837", "tt1827487", "tt2380237", "tt2758880", "tt4374460", "tt5813916", "tt6628102", "tt6967646", "tt10009936", "tt0048930", "tt0058006", "tt0060908", "tt0066819", "tt0073621", "tt0073707", "tt0081700", "tt0089730", "tt0106627", "tt0237724", "tt0311429", "tt0424755", "tt0443455", "tt1024945", "tt1139585", "tt1366338", "tt1604940", "tt2469294", "tt3174376", "tt5029608", "tt7064490", "tt11291274", "tt15255876"
+    ]
+  },
+  {
+    "listTitle": "Fransız Sinemasının Zirvesi: 50 Ölümsüz Başyapıt (1930-2013)",
+    "listSystemImage": "camera.macro",
+    "listColorHex": "0055A4",
+    "displayOrder": 23,
+    "movieIMDbIDs": [
+      "tt0023408", "tt0025324", "tt0031885", "tt0034588", "tt0037674", "tt0045156", "tt0045555", "tt0046478", "tt0046912", "tt0046911", "tt0048434", "tt0053198", "tt0053472", "tt0053779", "tt0059749", "tt0054215", "tt0054632", "tt0055614", "tt0062873", "tt0062229", "tt0064665", "tt0064040", "tt0070460", "tt0070328", "tt0070348", "tt0071877", "tt0077651", "tt0082846", "tt0085180", "tt0090605", "tt0093191", "tt0096332", "tt0099674", "tt0100263", "tt0108394", "tt0108390", "tt0108399", "tt0110607", "tt0117110", "tt0118842", "tt0156801", "tt0120685", "tt0139468", "tt0112471", "tt0211915", "tt0250224", "tt0395169", "tt0496511", "tt1235187", "tt1675431", "tt2278871", "tt2273392"
+    ]
+  },
+  {
+    "listTitle": "Bollywood Essentials: Tarihin, Kültürün ve Başyapıtların 50 İkonik Filmi",
+    "listSystemImage": "music.mic",
+    "listColorHex": "FF9933",
+    "displayOrder": 24,
+    "movieIMDbIDs": [
+      "tt0048947", "tt0048473", "tt0050870", "tt0054098", "tt0054130", "tt0057345", "tt0067241", "tt0073707", "tt0073582", "tt0070518", "tt0081271", "tt0083519", "tt0095936", "tt0096028", "tt0097642", "tt0101387", "tt0114108", "tt0112870", "tt0118845", "tt0119210", "tt0157154", "tt0169102", "tt0169102", "tt0252488", "tt0252493", "tt0318849", "tt0375611", "tt0439662", "tt0449999", "tt0456144", "tt0456144", "tt0456144", "tt0473367", "tt1185420", "tt1263785", "tt1562872", "tt1606385", "tt1821394", "tt2023965", "tt2213054", "tt2338151", "tt2779318", "tt3009772", "tt3041478", "tt4169250", "tt5074352", "tt5935704", "tt7180544", "tt8108202", "tt8267604", "tt8598654", "tt10895576"
+    ]
+  },
+  {
+    "listTitle": "Iranian New Wave",
+    "listSystemImage": "video.badge.waveform",
+    "listColorHex": "239F40",
+    "displayOrder": 25,
+    "movieIMDbIDs": [
+      "tt0064290", "tt0072190", "tt0076580", "tt0093342", "tt0092758", "tt0099080", "tt0099502", "tt0114890", "tt0116385", "tt0120265", "tt0120380", "tt0118849", "tt0153994", "tt0209463", "tt0191043", "tt0255569", "tt0250797", "tt0250798", "tt0283431", "tt0300063", "tt0307370", "tt0371280", "tt0370132", "tt0424227", "tt0441787", "tt0441773", "tt0492253", "tt0808417", "tt0947798", "tt1360860", "tt1542486", "tt1832382", "tt1847713", "tt2184155", "tt2404461", "tt2503154", "tt3141912", "tt3762944", "tt2326554", "tt2991224", "tt3709442", "tt4359416", "tt4273292", "tt5186714", "tt5221584", "tt6538136", "tt7683690", "tt10370710", "tt10096144", "tt13872248", "tt13446176"
+    ]
+  },
+  {
+    "listTitle": "Dark Scandinavian Dramas",
+    "listSystemImage": "snowflake",
+    "listColorHex": "0065BD",
+    "displayOrder": 26,
+    "movieIMDbIDs": [
+      "tt2106476", "tt1132620", "tt1132626", "tt2677064", "tt0120275", "tt0364961", "tt5987402", "tt0386784", "tt0274161", "tt0274155", "tt0019254", "tt0006480", "tt4062536", "tt0119465", "tt0808185", "tt0354085", "tt0125973", "tt0117880", "tt0060827", "tt0050976", "tt0055031", "tt0059113", "tt0077711", "tt0072417", "tt0091760", "tt0108390", "tt0117887", "tt0118747", "tt0120263", "tt0091039", "tt0112745", "tt0103649", "tt0103776", "tt0106469", "tt0120102", "tt0110647", "tt0117050", "tt0120277", "tt0120389", "tt0138559", "tt0168386", "tt0243902", "tt0289044", "tt0349260", "tt0368171", "tt0376968", "tt0476794", "tt0837117", "tt0899106", "tt10284566", "tt6027340", "tt13494896"
+    ]
+  },
+  {
+    "listTitle": "1990'lar Sinemasının Dönüm Noktası: 50 Etkili Film",
+    "listSystemImage": "dial.min.fill",
+    "listColorHex": "9400D3",
+    "displayOrder": 27,
+    "movieIMDbIDs": [
+      "tt0109830", "tt0110912", "tt0108052", "tt0114369", "tt0114814", "tt0118799", "tt0133093", "tt0120815", "tt0119217", "tt0113277", "tt0102926", "tt0110413", "tt0105236", "tt0114746", "tt0112573", "tt0117951", "tt0116282", "tt0105695", "tt0107048", "tt0119488", "tt0120586", "tt0116629", "tt0103064", "tt0120689", "tt0111161", "tt0180093", "tt0137523", "tt0110357", "tt0120737", "tt0110357", "tt0119698", "tt0103776", "tt0107290", "tt0119654", "tt0110647", "tt0116922", "tt0113540", "tt0118715", "tt0118849", "tt0116231", "tt0108399", "tt0115320", "tt0116922", "tt0118694", "tt0113247", "tt0115736", "tt0113531", "tt0119822", "tt0120382", "tt0169547"
+    ]
+  },
+  {
+    "listTitle": "Cult Classics of the 1980s",
+    "listSystemImage": "tv.and.hifispeaker.fill",
+    "listColorHex": "FD5B78",
+    "displayOrder": 28,
+    "movieIMDbIDs": [
+      "tt0082340", "tt0084787", "tt0080749", "tt0080684", "tt0080455", "tt0083929", "tt0082484", "tt0082096", "tt0082533", "tt0088847", "tt0087995", "tt0088258", "tt0083791", "tt0088930", "tt0093779", "tt0089218", "tt0093058", "tt0096256", "tt0090605", "tt0092067", "tt0083907", "tt0093773", "tt0087050", "tt0089175", "tt0089173", "tt0088763", "tt0088846", "tt0091042", "tt0080453", "tt0087332", "tt0086879", "tt0089007", "tt0088128", "tt0091763", "tt0088944", "tt0095765", "tt0087843", "tt0087884", "tt0097216", "tt0092007", "tt0088680", "tt0093010", "tt0089755", "tt0089424", "tt0095934", "tt0088939", "tt0088935", "tt0086491", "tt0093777", "tt0086984", "tt0087981", "tt0089707", "tt0089461", "tt0090190", "tt0087004", "tt0090830", "tt0093389", "tt0087015", "tt0089606", "tt0096438", "tt0090203", "tt0086946"
+    ]
+  },
+  {
+    "listTitle": "Silent Era Classics",
+    "listSystemImage": "film.circle.fill",
+    "listColorHex": "A9A9A9",
+    "displayOrder": 29,
+    "movieIMDbIDs": [
+      "tt0017925", "tt0017136", "tt0018455", "tt0021746", "tt0013442", "tt0015864", "tt0019254", "tt0010323", "tt0015648", "tt0015864", "tt0015881", "tt0018773", "tt0018806", "tt0019824", "tt0018192", "tt0004972", "tt0006864", "tt0015324", "tt0015624", "tt0014187", "tt0016220", "tt0010321", "tt0015064", "tt0012349", "tt0018455", "tt0019254", "tt0020530", "tt0015532", "tt0015361", "tt0016847", "tt0014429", "tt0018578", "tt0019760", "tt0013427", "tt0016845", "tt0011841", "tt0013257", "tt0019071", "tt0017075", "tt0018742", "tt0018773", "tt0018982", "tt0018515", "tt0020018", "tt0014181", "tt0012349", "tt0017136", "tt0018037", "tt0008899", "tt0013422", "tt0018749"
+    ]
+  },
+  {
+    "listTitle": "Trending on Social Media",
+    "listSystemImage": "dot.radiowaves.right",
+    "listColorHex": "1DA1F2",
+    "displayOrder": 30,
+    "movieIMDbIDs": [
+      "tt10954984", "tt11138512", "tt11286314", "tt10872600", "tt3480822", "tt9376612", "tt9032400", "tt1160419", "tt4244994", "tt3228774", "tt10366460", "tt11271038", "tt12536294", "tt6710474", "tt11245972", "tt13320622", "tt1345836", "tt10731256", "tt10648342", "tt5113044", "tt14109724", "tt7322224", "tt3915174", "tt13560574", "tt11866324", "tt12593682", "tt10362612", "tt13610562", "tt1464335", "tt13320662", "tt9419884", "tt11286314", "tt10886166", "tt15097216", "tt10752004", "tt13833688", "tt11291274", "tt15325794", "tt2463208", "tt3704428", "tt10293406", "tt12412888", "tt12530246", "tt8097030", "tt2382320", "tt3581652", "tt11271038", "tt11245972", "tt4123432", "tt10366460", "tt5311514", "tt4154796"
+    ]
+  },
+  {
+    "listTitle": "Most Watched This Month",
+    "listSystemImage": "play.tv.fill",
+    "listColorHex": "E50914",
+    "displayOrder": 31,
+    "movieIMDbIDs": [
+      "tt11152168", "tt17455666", "tt14230458", "tt10366206", "tt15398776", "tt9362722", "tt10954600", "tt1517268", "tt6718170", "tt10172266", "tt10872600", "tt9114286", "tt10648342", "tt13623148", "tt10298810", "tt12530246", "tt1877830", "tt10304142", "tt1745960", "tt11245972", "tt9032400", "tt1160419", "tt10838180", "tt6443346", "tt3480822", "tt9376612", "tt11671006", "tt11271038", "tt11286314", "tt11214590", "tt12618926", "tt10731256", "tt1345836", "tt0816692", "tt1375666", "tt4154756", "tt4154796", "tt0111161", "tt0068646", "tt0133093", "tt0172495", "tt0482571", "tt0110357", "tt0317219", "tt0120338", "tt0109830", "tt0120689", "tt0110413", "tt0088763", "tt0099685"
+    ]
+  },
+  {
+    "listTitle": "Academy Award Winners - Best Picture",
+    "listSystemImage": "trophy.fill",
+    "listColorHex": "D4AF37",
+    "displayOrder": 32,
+    "movieIMDbIDs": [
+      "tt31615484", "tt15398776", "tt17076046", "tt10366460", "tt9770150", "tt6751668", "tt6966692", "tt5580390", "tt4995790", "tt1895587", "tt2024544", "tt1392214", "tt1658820", "tt1028532", "tt0878804", "tt1010048", "tt0407887", "tt0338564", "tt0167260", "tt0268978", "tt0172495", "tt0169547", "tt0120338", "tt0118799", "tt0119217", "tt0112573", "tt0109830", "tt0108052", "tt0102926", "tt0099348", "tt0096438", "tt0095953", "tt0087843", "tt0078788", "tt0071562", "tt0068646", "tt0067093", "tt0059742", "tt0058331", "tt0056172", "tt0055031", "tt0053793", "tt0049833", "tt0047296", "tt0043278", "tt0042192", "tt0040416", "tt0038787", "tt0036872", "tt0037120", "tt0036868", "tt0034583", "tt0031381", "tt0029146"
+    ]
+  },
+  {
+    "listTitle": "Cannes Palme d'Or Winners",
+    "listSystemImage": "camera.viewfinder",
+    "listColorHex": "A67B5B",
+    "displayOrder": 33,
+    "movieIMDbIDs": [
+      "tt6751668", "tt7991208", "tt10648946", "tt3089630", "tt0253474", "tt0110912", "tt0075314", "tt0084934", "tt0078788", "tt0071315", "tt0056172", "tt0054047", "tt0051808", "tt0046268", "tt0041959", "tt0101257", "tt0108529", "tt0112461", "tt0114168", "tt0116895", "tt0120382", "tt0185016", "tt0265343", "tt0364569", "tt0387538", "tt0454824", "tt0464854", "tt1034409", "tt1411238", "tt1796939", "tt0041959", "tt0045935", "tt0046478", "tt0053779", "tt0055601", "tt0057091", "tt0060176", "tt0066026", "tt0067140", "tt0070643", "tt0078421", "tt0080979", "tt0082222", "tt0084335", "tt0087884", "tt0089011", "tt0091530", "tt0093943", "tt0093713", "tt0098724"
+    ]
+  },
+  {
+    "listTitle": "BAFTA Best Film Winners",
+    "listSystemImage": "medal",
+    "listColorHex": "34568B",
+    "displayOrder": 34,
+    "movieIMDbIDs": [
+      "tt20215234", "tt15398776", "tt1016150", "tt10293406", "tt9770150", "tt8579674", "tt6155172", "tt5027774", "tt3783958", "tt1663202", "tt1895587", "tt2024544", "tt1504320", "tt0878804", "tt0783233", "tt0436697", "tt0411008", "tt0407887", "tt0338564", "tt0167260", "tt0253474", "tt0172495", "tt0169547", "tt0120855", "tt0116209", "tt0111107", "tt0108052", "tt0102057", "tt0099685", "tt0097165", "tt0093437", "tt0091867", "tt0089755", "tt0083866", "tt0082158", "tt0080678", "tt0078788", "tt0075686", "tt0073486", "tt0071853", "tt0068646", "tt0064665", "tt0061811", "tt0060827", "tt0059742", "tt0058331", "tt0056172", "tt0055031", "tt0053793", "tt0049833"
+    ]
+  },
+  {
+    "listTitle": "Holiday & Christmas-Themed Movies",
+    "listSystemImage": "gift.fill",
+    "listColorHex": "C82D35",
+    "displayOrder": 35,
+    "movieIMDbIDs": [
+      "tt0038650", "tt0095016", "tt0107120", "tt0314331", "tt0319343", "tt0108399", "tt0088258", "tt0096061", "tt0034583", "tt0117665", "tt0368447", "tt0457939", "tt0037059", "tt0046534", "tt0089679", "tt1448755", "tt0091369", "tt0307987", "tt1001508", "tt1152836", "tt2360341", "tt4458206", "tt2184135", "tt6981954", "tt10919420", "tt0039628", "tt0338348", "tt0077869", "tt0085334", "tt0107688", "tt0116683", "tt0240890", "tt0373469", "tt0391220", "tt0409831", "tt0483726", "tt0762125", "tt0834001", "tt1045658", "tt1230414", "tt1598822", "tt1650062", "tt1655441", "tt1967545", "tt2381941", "tt2567026", "tt2802144", "tt3521164", "tt4007502", "tt6142314"
+    ]
+  },
+  {
+    "listTitle": "Time Travel Movies",
+    "listSystemImage": "clock.arrow.2.circlepath",
+    "listColorHex": "00A99D",
+    "displayOrder": 36,
+    "movieIMDbIDs": [
+      "tt0816692", "tt0088763", "tt0088247", "tt1276104", "tt0390384", "tt0246578", "tt1631867", "tt2194499", "tt2397535", "tt2543164", "tt0054387", "tt0103064", "tt0111282", "tt0405094", "tt0482571", "tt1436045", "tt0910970", "tt1234548", "tt1270798", "tt1667353", "tt2660888", "tt2975590", "tt3464902", "tt3530002", "tt4572820", "tt4730986", "tt4972582", "tt6146588", "tt6269368", "tt7984734", "tt8367814", "tt6723592", "tt5605916", "tt3416532", "tt2567026", "tt2245084", "tt2179136", "tt1477834", "tt1182345", "tt0481499", "tt0414993", "tt0407304", "tt0362227", "tt0120663", "tt0107048", "tt0100740", "tt0080510", "tt0114746", "tt0185183", "tt2280388"
+    ]
+  },
+  {
+    "listTitle": "Dystopian & Post-Apocalyptic Worlds",
+    "listSystemImage": "building.2.fill",
+    "listColorHex": "696969",
+    "displayOrder": 37,
+    "movieIMDbIDs": [
+      "tt0083658", "tt0133093", "tt1392190", "tt0206634", "tt1706620", "tt0898367", "tt0910970", "tt0434409", "tt1136608", "tt0087803", "tt0816711", "tt0343818", "tt1598778", "tt0082694", "tt0067855", "tt0070723", "tt0079501", "tt0086250", "tt0088847", "tt0343737", "tt0389722", "tt0408790", "tt0892791", "tt10271386", "tt1104001", "tt1216501", "tt1289401", "tt1327194", "tt1379182", "tt1535108", "tt2980516", "tt0470752", "tt0780504", "tt0970179", "tt1236472", "tt1396484", "tt1454468", "tt1631867", "tt1790885", "tt1853728", "tt1951264", "tt1951265", "tt1951266", "tt2070876", "tt2229499", "tt2267998", "tt2557478", "tt3469046", "tt3659388", "tt4016454"
+    ]
+  },
+  {
+    "listTitle": "Single-Night Storyline Films",
+    "listSystemImage": "moon.fill",
+    "listColorHex": "483D8B",
+    "displayOrder": 38,
+    "movieIMDbIDs": [
+      "tt0083658", "tt0133093", "tt1392190", "tt0206634", "tt1706620", "tt0898367", "tt0910970", "tt0434409", "tt1136608", "tt0087803", "tt0816711", "tt0343818", "tt1598778", "tt0082694", "tt0067855", "tt0070723", "tt0079501", "tt0086250", "tt0088847", "tt0343737", "tt0389722", "tt0408790", "tt0892791", "tt10271386", "tt1104001", "tt1216501", "tt1289401", "tt1327194", "tt1379182", "tt1535108", "tt2980516", "tt0470752", "tt0780504", "tt0970179", "tt1236472", "tt1396484", "tt1454468", "tt1631867", "tt1790885", "tt1853728", "tt1951264", "tt1951265", "tt1951266", "tt2070876", "tt2229499", "tt2267998", "tt2557478", "tt3469046", "tt3659388", "tt4016454"
+    ]
+  },
   {
     "listTitle": "Hidden Gems of the 21st Century",
     "listSystemImage": "sparkle",
     "listColorHex": "20B2AA",
     "displayOrder": 39,
     "movieIMDbIDs": [
-      "tt1182345", "tt0211915", "tt0317248", "tt0460791", "tt1305806", "tt1139797", "tt0405094", "tt0457430", "tt0364569", "tt0209144",
-      "tt0756683", "tt2872718", "tt4682266", "tt1255953", "tt2545118", "tt3170832", "tt1201607", "tt0480416", "tt1178665", "tt1235189",
-      "tt1242488", "tt1437358", "tt1730701", "tt2084970", "tt2358913", "tt2592614", "tt3460252", "tt3715320", "tt4048272", "tt4126372",
-      "tt4226388", "tt5052448", "tt5323662", "tt5657846", "tt6148156", "tt8193824", "tt8364368", "tt8946378", "tt9059760", "tt2597768",
-      "tt2582802", "tt4975722", "tt4034228", "tt1022603", "tt0379063", "tt0800025", "tt1066442", "tt0415978", "tt0469345", "tt1135522"
+      "tt1182345", "tt0211915", "tt0317248", "tt0460791", "tt1305806", "tt1139797", "tt0405094", "tt0457430", "tt0364569", "tt0209144", "tt0756683", "tt2872718", "tt4682266", "tt1255953", "tt2545118", "tt3170832", "tt1201607", "tt0480416", "tt1178665", "tt1235189", "tt1242488", "tt1437358", "tt1730701", "tt2084970", "tt2358913", "tt2592614", "tt3460252", "tt3715320", "tt4048272", "tt4126372", "tt4226388", "tt5052448", "tt5323662", "tt5657846", "tt6148156", "tt8193824", "tt8364368", "tt8946378", "tt9059760", "tt2597768", "tt2582802", "tt4975722", "tt4034228", "tt1022603", "tt0379063", "tt0800025", "tt1066442", "tt0415978", "tt0469345", "tt1135522"
     ]
   },
   {
@@ -1530,11 +356,7 @@
     "listColorHex": "6A5ACD",
     "displayOrder": 40,
     "movieIMDbIDs": [
-      "tt0449059", "tt0335266", "tt0467406", "tt0265666", "tt0333766", "tt0374900", "tt0393109", "tt0365835", "tt0415978", "tt0468489",
-      "tt074507981", "tt0246578", "tt4975722", "tt2582802", "tt4034228", "tt1022603", "tt0379063", "tt0800025", "tt1066442", "tt1135522",
-      "tt1244778", "tt1439629", "tt1545353", "tt1636826", "tt1843866", "tt2084970", "tt2103281", "tt2334649", "tt2402927", "tt3460252",
-      "tt3715320", "tt4126372", "tt4777008", "tt5311542", "tt5657846", "tt6265828", "tt8364368", "tt8772262", "tt0942385", "tt0988595",
-      "tt1013753", "tt1120985", "tt1187043", "tt1220719", "tt1231583", "tt1231587", "tt1270797", "tt1306980", "tt1325004", "tt1392170"
+      "tt0449059", "tt0335266", "tt0467406", "tt0265666", "tt0333766", "tt0374900", "tt0393109", "tt0365835", "tt0415978", "tt0468489", "tt074507981", "tt0246578", "tt4975722", "tt2582802", "tt4034228", "tt1022603", "tt0379063", "tt0800025", "tt1066442", "tt1135522", "tt1244778", "tt1439629", "tt1545353", "tt1636826", "tt1843866", "tt2084970", "tt2103281", "tt2334649", "tt2402927", "tt3460252", "tt3715320", "tt4126372", "tt4777008", "tt5311542", "tt5657846", "tt6265828", "tt8364368", "tt8772262", "tt0942385", "tt0988595", "tt1013753", "tt1120985", "tt1187043", "tt1220719", "tt1231583", "tt1231587", "tt1270797", "tt1306980", "tt1325004", "tt1392170"
     ]
   }
 ]
