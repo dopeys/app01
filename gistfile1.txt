@@ -578,9 +578,9 @@
     ]
   },
   {
-    "listTitle": "100 Criterion Collection Films",
-    "listSystemImage": "list.and.film”,
-    "listColorHex": "483D8B",
+    "listTitle": "Hidden Gems of the 21st Century",
+    "listSystemImage": "sparkle",
+    "listColorHex": "20B2AA",
     "displayOrder": 38,
     "movieIMDbIDs": [
       "tt0056801",
