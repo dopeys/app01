@@ -679,7 +679,7 @@
     "listTitle": "100 Criterion Collection Films",
     "listSystemImage": "list.and.film",
     "listColorHex": "483D8B",
-    "displayOrder": 3.5,
+    "displayOrder": 38,
     "movieIMDbIDs": [
       "tt0056801",
       "tt0053198",
