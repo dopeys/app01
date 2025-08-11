@@ -155,7 +155,7 @@
   {
     "listTitle": "Best Sci-Fi Movies of All Time",
     "listSystemImage": "testtube.2",
-    "listColorHex": "#0D8BF2",
+    "listColorHex": "0D8BF2",
     "displayOrder": 7,
     "movieIMDbIDs": [
         "tt0017136",
