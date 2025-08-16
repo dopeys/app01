@@ -9,7 +9,7 @@
     ]
   },
   {
-    "listTitle": “Empire Best TV Shows Of All Time",
+    "listTitle": "Empire Best TV Shows Of All Time",
     "listSystemImage": "tv.fill",
     "listColorHex": "00C73F",
     "displayOrder": 2,
