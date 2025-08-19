@@ -1259,7 +1259,7 @@
   {
     "listTitle": "Nouvelle Vague",
     "listSystemImage": "film.fill",
-    "listColorHex": "FAF9F6",
+    "listColorHex": "7A8D8E",
     "displayOrder": 31,
     "movieIMDbIDs": [
         "tt0048513",
