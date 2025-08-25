@@ -1446,7 +1446,7 @@
     "listTitle": "Nouvelle Vague",
     "listSystemImage": "film.fill",
     "listColorHex": "7A8D8E",
-    "displayOrder": 30
+    "displayOrder": 30,
     "movieIMDbIDs": [
         "tt0048513",
         "tt0047892",
@@ -1794,7 +1794,7 @@
   {
   "listTitle": "Time Travel Movies",
   "listSystemImage": "hourglass",
-  "listColorHex": "#4A90E2",
+  "listColorHex": "4A90E2",
   "displayOrder": 36,
   "movieIMDbIDs": [
     "tt0088763",
