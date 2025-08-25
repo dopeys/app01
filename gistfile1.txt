@@ -41,7 +41,6 @@
         "tt0106179",
         "tt0098904",
         "tt0285331",
-        "tt3492188",
         "tt1266020",
         "tt7366338",
         "tt1475582",
@@ -92,7 +91,6 @@
         "tt0475784",
         "tt0773262",
         "tt0106028",
-        "tt0118349",
         "tt7120662",
         "tt11204260",
         "tt9059760",
@@ -140,7 +138,7 @@
     "listColorHex": "1A1A1A",
     "displayOrder": 5,
     "movieIMDbIDs": [
-      "tt0052357", "tt0033467", "tt0046438", "tt0063350", "tt0062622", "tt0499549", "tt0019760", "tt0045152", "tt0019254", "tt0068646", "tt0031885", "tt0078788", "tt0049730", "tt0040522", "tt0075314", "tt0057869", "tt0083658", "tt0042876", "tt0066921", "tt0071853", "tt0110912", "tt0469494", "tt0043014", "tt0054353", "tt0070047", "tt0091251", "tt0112461", "tt0050986", "tt0057565", "tt0108052", "tt0079944", "tt0048473", "tt0050212", "tt0047396", "tt0053125", "tt0055254", "tt0060827", "tt0053604", "tt0032553", "tt0056172", "tt0022100", "tt0055031", "tt0041959", "tt0059883", "tt0071562", "tt0044741", "tt0036868", "tt0046268", "tt0055032", "tt0060196", "tt0064116", "tt0099685", "tt0017136", "tt0080479", "tt0048424", "tt0065174", "tt0070735", "tt0088847", "tt0112471", "tt0056869", "tt0042192", "tt0056923", "tt0063442", "tt0047034", "tt0045793", "tt0031679", "tt0040897", "tt0061418", "tt0059578", "tt0058331", "tt0077416", "tt0033870", "tt0067116", "tt0061795", "tt0074119", "tt0079470", "tt0081398", "tt0035575", "tt0084726", "tt0058461", "tt0059742", "tt0032904", "tt0073195", "tt0096895", "tt0095016", "tt0107290", "tt0103064", "tt0111161", "tt0114814", "tt0117951", "tt0120815", "tt0166924", "tt0172495", "tt0208092"
+      "tt0052357", "tt0033467", "tt0046438", "tt0063350", "tt0062622", "tt0499549", "tt0019760", "tt0045152", "tt0019254", "tt0068646", "tt0031885", "tt0078788", "tt0049730", "tt0040522", "tt0075314", "tt0057869", "tt0083658", "tt0042876", "tt0066921", "tt0071853", "tt0110912", "tt0469494", "tt0043014", "tt0054353", "tt0070047", "tt0091251", "tt0112461", "tt0050986", "tt0057565", "tt0108052", "tt0079944", "tt0048473", "tt0050212", "tt0047396", "tt0053125", "tt0055254", "tt0060827", "tt0053604", "tt0032553", "tt0056172", "tt0022100", "tt0055031", "tt0041959", "tt0071562", "tt0044741", "tt0036868", "tt0046268", "tt0055032", "tt0060196", "tt0064116", "tt0099685", "tt0017136", "tt0080479", "tt0048424", "tt0070735", "tt0088847", "tt0112471", "tt0056869", "tt0042192", "tt0056923", "tt0063442", "tt0047034", "tt0045793", "tt0031679", "tt0040897", "tt0061418", "tt0059578", "tt0058331", "tt0077416", "tt0033870", "tt0067116", "tt0061795", "tt0074119", "tt0079470", "tt0081398", "tt0035575", "tt0084726", "tt0058461", "tt0059742", "tt0032904", "tt0073195", "tt0096895", "tt0095016", "tt0107290", "tt0103064", "tt0111161", "tt0114814", "tt0117951", "tt0120815", "tt0166924", "tt0172495", "tt0208092"
     ]
   },
 {
@@ -774,68 +772,10 @@
 }
 ,
   {
-"listTitle": "Watch With Your Kids",
-"listSystemImage": "figure.and.child.holdinghands",
-"listColorHex": "2C3E50",
-"displayOrder": 32,
-"movieIMDbIDs": [
-"tt0114709",
-"tt0110357",
-"tt0266543",
-"tt1049413",
-"tt2096673",
-"tt0910970",
-"tt2380307",
-"tt0382932",
-"tt0198781",
-"tt0317705",
-"tt0096283",
-"tt0097814",
-"tt0876563",
-"tt0101414",
-"tt0103639",
-"tt0097757",
-"tt3521164",
-"tt0120762",
-"tt2948356",
-"tt0120917",
-"tt2953050",
-"tt0029583",
-"tt0032910",
-"tt0046183",
-"tt0061852",
-"tt0032455",
-"tt0126029",
-"tt0892769",
-"tt0268380",
-"tt4468740",
-"tt1490017",
-"tt1323594",
-"tt0441773",
-"tt0312004",
-"tt0120630",
-"tt2872750",
-"tt1865505",
-"tt0129167",
-"tt0837562",
-"tt0366548",
-"tt12801262",
-"tt2293640",
-"tt6182908",
-"tt0083866",
-"tt0032138",
-"tt0058331",
-"tt0059742",
-"tt0099785",
-"tt0367594",
-"tt2277860"
-]
-},
-  {
     "listTitle": "Queer Cinema Essentials",
     "listSystemImage": "rainbow",
     "listColorHex": "F77F00",
-    "displayOrder": 17,
+    "displayOrder": 16,
     "movieIMDbIDs": [
         "tt0022183",
         "tt0040746",
@@ -893,7 +833,7 @@
     "listTitle": "For Tarantino Fans",
     "listSystemImage": "quote.bubble.fill",
     "listColorHex": "E6D500",
-    "displayOrder": 18,
+    "displayOrder": 17,
     "movieIMDbIDs": [
       "tt0105236", "tt0110912", "tt0119396", "tt0266697", "tt0378194", "tt1028528", "tt0361748", "tt1853728", "tt3460252", "tt7131622", "tt0108399", "tt0116367", "tt0060196", "tt0065724", "tt0072890", "tt0071360", "tt0074252", "tt0086250", "tt0094073", "tt0101841", "tt0105695", "tt0110857", "tt0281686", "tt0330771", "tt0425210", "tt0092106", "tt0063462", "tt0111495", "tt0114734", "tt0219854", "tt0181875", "tt0266308", "tt0118749", "tt0106677", "tt0137523", "tt0133093", "tt0365748", "tt0111257", "tt0217862", "tt0078788", "tt0074285", "tt0073195", "tt0075314", "tt0057115", "tt0053221", "tt0082085", "tt0068646", "tt0076759", "tt0082971", "tt0246578"
     ]
@@ -902,7 +842,7 @@
     "listTitle": "Pedro Almodóvar's Vibrant Dramas",
     "listSystemImage": "paintpalette.fill",
     "listColorHex": "E3001B",
-    "displayOrder": 19,
+    "displayOrder": 18,
     "movieIMDbIDs": [
       "tt0095675", "tt0185125", "tt0287467", "tt0441909", "tt0913425", "tt1189073", "tt2024490", "tt8291806", "tt12680684", "tt0119567", "tt0275491", "tt0093412", "tt0102118", "tt0088282"
     ]
@@ -911,7 +851,7 @@
     "listTitle": "Deeply Philosophical",
     "listSystemImage": "infinity",
     "listColorHex": "918B9F",
-    "displayOrder": 20,
+    "displayOrder": 19,
     "movieIMDbIDs": [
         "tt0062622",
         "tt0133093",
@@ -970,7 +910,7 @@
     "listTitle": "Masterpieces of Japanese Cinema",
     "listSystemImage": "sun.max.fill",
     "listColorHex": "BC002D",
-    "displayOrder": 21,
+    "displayOrder": 20,
     "movieIMDbIDs": [
         "tt0017066",
         "tt0023292",
@@ -1029,7 +969,7 @@
     "listTitle": "Milestones of Turkish Cinema",
     "listSystemImage": "moon.stars.fill",
     "listColorHex": "E30A17",
-    "displayOrder": 22,
+    "displayOrder": 21,
     "movieIMDbIDs": [
         "tt0013824",
         "tt0022003",
@@ -1088,7 +1028,7 @@
     "listTitle": "Best of French Cinema",
     "listSystemImage": "camera.macro",
     "listColorHex": "0055A4",
-    "displayOrder": 23,
+    "displayOrder": 22,
     "movieIMDbIDs": [
       "tt0023408", "tt0025324", "tt0031885", "tt0034588", "tt0037674", "tt0045156", "tt0045555", "tt0046478", "tt0046912", "tt0046911", "tt0048434", "tt0053198", "tt0053472", "tt0053779", "tt0059749", "tt0054215", "tt0054632", "tt0055614", "tt0062873", "tt0062229", "tt0064665", "tt0064040", "tt0070460", "tt0070328", "tt0070348", "tt0071877", "tt0077651", "tt0082846", "tt0085180", "tt0090605", "tt0093191", "tt0096332", "tt0099674", "tt0100263", "tt0108394", "tt0108390", "tt0108399", "tt0110607", "tt0117110", "tt0118842", "tt0156801", "tt0120685", "tt0139468", "tt0112471", "tt0211915", "tt0250224", "tt0395169", "tt0496511", "tt1235187", "tt1675431", "tt2278871", "tt2273392"
     ]
@@ -1097,7 +1037,7 @@
     "listTitle": "Bollywood Essentials",
     "listSystemImage": "music.mic",
     "listColorHex": "FF9933",
-    "displayOrder": 24,
+    "displayOrder": 23,
     "movieIMDbIDs": [
         "tt0045694",
         "tt0050870",
@@ -1156,7 +1096,7 @@
     "listTitle": "Iranian New Wave",
     "listSystemImage": "video.badge.waveform",
     "listColorHex": "239F40",
-    "displayOrder": 25,
+    "displayOrder": 24,
     "movieIMDbIDs": [
         "tt0064352",
         "tt0064368",
@@ -1215,7 +1155,7 @@
     "listTitle": "Dark Scandinavian Dramas",
     "listSystemImage": "snowflake",
     "listColorHex": "0065BD",
-    "displayOrder": 26,
+    "displayOrder": 25,
     "movieIMDbIDs": [
         "tt2106476",
         "tt6742252",
@@ -1274,7 +1214,7 @@
     "listTitle": "Best of the 1990s",
     "listSystemImage": "dial.min.fill",
     "listColorHex": "9400D3",
-    "displayOrder": 27,
+    "displayOrder": 26,
     "movieIMDbIDs": [
         "tt0099685",
         "tt0100234",
@@ -1332,7 +1272,7 @@
     "listTitle": "Cult Classics of the 1980s",
     "listSystemImage": "tv.and.hifispeaker.fill",
     "listColorHex": "FD5B78",
-    "displayOrder": 28,
+    "displayOrder": 27,
     "movieIMDbIDs": [
         "tt0081505",
         "tt0080455",
@@ -1390,7 +1330,7 @@
     "listTitle": "Silent Era Classics",
     "listSystemImage": "film.circle.fill",
     "listColorHex": "A9A9A9",
-    "displayOrder": 29,
+    "displayOrder": 28,
     "movieIMDbIDs": [
         "tt0003740",
         "tt0004972",
@@ -1448,7 +1388,7 @@
     "listTitle": "Feminist Cinema",
     "listSystemImage": "hand.raised.fill",
     "listColorHex": "C48793",
-    "displayOrder": 30,
+    "displayOrder": 29,
     "movieIMDbIDs": [
         "tt0013626",
         "tt0018778",
@@ -1506,7 +1446,7 @@
     "listTitle": "Nouvelle Vague",
     "listSystemImage": "film.fill",
     "listColorHex": "7A8D8E",
-    "displayOrder": 31,
+    "displayOrder": 30
     "movieIMDbIDs": [
         "tt0048513",
         "tt0047892",
@@ -1559,6 +1499,64 @@
         "tt0247380",
         "tt0061138"
     ]
+},
+{
+"listTitle": "Watch With Your Kids",
+"listSystemImage": "figure.and.child.holdinghands",
+"listColorHex": "2C3E50",
+"displayOrder": 31,
+"movieIMDbIDs": [
+"tt0114709",
+"tt0110357",
+"tt0266543",
+"tt1049413",
+"tt2096673",
+"tt0910970",
+"tt2380307",
+"tt0382932",
+"tt0198781",
+"tt0317705",
+"tt0096283",
+"tt0097814",
+"tt0876563",
+"tt0101414",
+"tt0103639",
+"tt0097757",
+"tt3521164",
+"tt0120762",
+"tt2948356",
+"tt0120917",
+"tt2953050",
+"tt0029583",
+"tt0032910",
+"tt0046183",
+"tt0061852",
+"tt0032455",
+"tt0126029",
+"tt0892769",
+"tt0268380",
+"tt4468740",
+"tt1490017",
+"tt1323594",
+"tt0441773",
+"tt0312004",
+"tt0120630",
+"tt2872750",
+"tt1865505",
+"tt0129167",
+"tt0837562",
+"tt0366548",
+"tt12801262",
+"tt2293640",
+"tt6182908",
+"tt0083866",
+"tt0032138",
+"tt0058331",
+"tt0059742",
+"tt0099785",
+"tt0367594",
+"tt2277860"
+]
 },
   {
     "listTitle": "Academy Award Winners - Best Picture",
@@ -1797,7 +1795,7 @@
   "listTitle": "Time Travel Movies",
   "listSystemImage": "hourglass",
   "listColorHex": "#4A90E2",
-  "displayOrder": 11,
+  "displayOrder": 36,
   "movieIMDbIDs": [
     "tt0088763",
     "tt0088247",
