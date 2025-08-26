@@ -2111,12 +2111,12 @@
     ]
 },
 {
-    "listTitle": "Great War Epics",
-    "listSystemImage": "guitars.fill",
-    "listColorHex": "6A5ACD",
-    "displayOrder": 41,
-    "movieIMDbIDs": [
-        "tt0056172",
+  "listTitle": "Great War Epics",
+  "listSystemImage": "shield.fill",
+  "listColorHex": "8B0000",
+  "displayOrder": 41,
+  "movieIMDbIDs": [
+    "tt0056172",
     "tt0054331",
     "tt0112573",
     "tt0097441",
@@ -2165,6 +2165,6 @@
     "tt1139328",
     "tt0109254",
     "tt0449467"
-    ]
+  ]
 }
 ]
