@@ -1,5 +1,161 @@
 [
   {
+  "listTitle": "Cannes 2026 Official Selection",
+  "listSystemImage": "laurel.leading",
+  "listColorHex": "D4AF37",
+  "displayOrder": 0,
+  "movieTMDBIDs": [
+    {
+      "tmdbID": 1442669,
+      "mediaType": "movie"
+    },
+    {
+      "tmdbID": 1088548,
+      "mediaType": "movie"
+    },
+    {
+      "tmdbID": 1157869,
+      "mediaType": "movie"
+    },
+    {
+      "tmdbID": 1258181,
+      "mediaType": "movie"
+    },
+    {
+      "tmdbID": 1422041,
+      "mediaType": "movie"
+    },
+    {
+      "tmdbID": 1437981,
+      "mediaType": "movie"
+    },
+    {
+      "tmdbID": 1013822,
+      "mediaType": "movie"
+    },
+    {
+      "tmdbID": 1476614,
+      "mediaType": "movie"
+    },
+    {
+      "tmdbID": 1182935,
+      "mediaType": "movie"
+    },
+    {
+      "tmdbID": 1507877,
+      "mediaType": "movie"
+    },
+    {
+      "tmdbID": 1553969,
+      "mediaType": "movie"
+    },
+    {
+      "tmdbID": 1058424,
+      "mediaType": "movie"
+    },
+    {
+      "tmdbID": 1448971,
+      "mediaType": "movie"
+    },
+    {
+      "tmdbID": 1473148,
+      "mediaType": "movie"
+    },
+    {
+      "tmdbID": 1318864,
+      "mediaType": "movie"
+    },
+    {
+      "tmdbID": 1401459,
+      "mediaType": "movie"
+    },
+    {
+      "tmdbID": 1191818,
+      "mediaType": "movie"
+    },
+    {
+      "tmdbID": 1437925,
+      "mediaType": "movie"
+    },
+    {
+      "tmdbID": 1437696,
+      "mediaType": "movie"
+    },
+    {
+      "tmdbID": 1458914,
+      "mediaType": "movie"
+    },
+    {
+      "tmdbID": 1074074,
+      "mediaType": "movie"
+    },
+    {
+      "tmdbID": 848700,
+      "mediaType": "movie"
+    },
+    {
+      "tmdbID": 1240889,
+      "mediaType": "movie"
+    },
+    {
+      "tmdbID": 1661926,
+      "mediaType": "movie"
+    },
+    {
+      "tmdbID": 947493,
+      "mediaType": "movie"
+    },
+    {
+      "tmdbID": 1405200,
+      "mediaType": "movie"
+    },
+    {
+      "tmdbID": 1666683,
+      "mediaType": "movie"
+    },
+    {
+      "tmdbID": 1585239,
+      "mediaType": "movie"
+    },
+    {
+      "tmdbID": 1490241,
+      "mediaType": "movie"
+    },
+    {
+      "tmdbID": 1404582,
+      "mediaType": "movie"
+    },
+    {
+      "tmdbID": 1210268,
+      "mediaType": "movie"
+    },
+    {
+      "tmdbID": 1661932,
+      "mediaType": "movie"
+    },
+    {
+      "tmdbID": 1529849,
+      "mediaType": "movie"
+    },
+    {
+      "tmdbID": 1441105,
+      "mediaType": "movie"
+    },
+    {
+      "tmdbID": 1544163,
+      "mediaType": "movie"
+    },
+    {
+      "tmdbID": 1655419,
+      "mediaType": "movie"
+    },
+    {
+      "tmdbID": 1560309,
+      "mediaType": "movie"
+    }
+  ]
+},
+  {
     "listTitle": "IMDb Top 100",
     "listSystemImage": "star.fill",
     "listColorHex": "F5C518",
