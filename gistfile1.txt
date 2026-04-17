@@ -1,165 +1,281 @@
 [
   {
-  "listTitle": "Cannes 2026 Official Selection",
-  "listSystemImage": "laurel.leading",
-  "listColorHex": "D4AF37",
-  "displayOrder": 0,
-  "movieTMDBIDs": [
-    {
-      "tmdbID": 1442669,
-      "mediaType": "movie"
-    },
-    {
-      "tmdbID": 1088548,
-      "mediaType": "movie"
-    },
-    {
-      "tmdbID": 1157869,
-      "mediaType": "movie"
-    },
-    {
-      "tmdbID": 1258181,
-      "mediaType": "movie"
-    },
-    {
-      "tmdbID": 1422041,
-      "mediaType": "movie"
-    },
-    {
-      "tmdbID": 1437981,
-      "mediaType": "movie"
-    },
-    {
-      "tmdbID": 1013822,
-      "mediaType": "movie"
-    },
-    {
-      "tmdbID": 1476614,
-      "mediaType": "movie"
-    },
-    {
-      "tmdbID": 1182935,
-      "mediaType": "movie"
-    },
-    {
-      "tmdbID": 1507877,
-      "mediaType": "movie"
-    },
-    {
-      "tmdbID": 1553969,
-      "mediaType": "movie"
-    },
-    {
-      "tmdbID": 1058424,
-      "mediaType": "movie"
-    },
-    {
-      "tmdbID": 1448971,
-      "mediaType": "movie"
-    },
-    {
-      "tmdbID": 1473148,
-      "mediaType": "movie"
-    },
-    {
-      "tmdbID": 1318864,
-      "mediaType": "movie"
-    },
-    {
-      "tmdbID": 1401459,
-      "mediaType": "movie"
-    },
-    {
-      "tmdbID": 1191818,
-      "mediaType": "movie"
-    },
-    {
-      "tmdbID": 1437925,
-      "mediaType": "movie"
-    },
-    {
-      "tmdbID": 1437696,
-      "mediaType": "movie"
-    },
-    {
-      "tmdbID": 1458914,
-      "mediaType": "movie"
-    },
-    {
-      "tmdbID": 1074074,
-      "mediaType": "movie"
-    },
-    {
-      "tmdbID": 848700,
-      "mediaType": "movie"
-    },
-    {
-      "tmdbID": 1240889,
-      "mediaType": "movie"
-    },
-    {
-      "tmdbID": 1661926,
-      "mediaType": "movie"
-    },
-    {
-      "tmdbID": 947493,
-      "mediaType": "movie"
-    },
-    {
-      "tmdbID": 1405200,
-      "mediaType": "movie"
-    },
-    {
-      "tmdbID": 1666683,
-      "mediaType": "movie"
-    },
-    {
-      "tmdbID": 1585239,
-      "mediaType": "movie"
-    },
-    {
-      "tmdbID": 1490241,
-      "mediaType": "movie"
-    },
-    {
-      "tmdbID": 1404582,
-      "mediaType": "movie"
-    },
-    {
-      "tmdbID": 1210268,
-      "mediaType": "movie"
-    },
-    {
-      "tmdbID": 1661932,
-      "mediaType": "movie"
-    },
-    {
-      "tmdbID": 1529849,
-      "mediaType": "movie"
-    },
-    {
-      "tmdbID": 1441105,
-      "mediaType": "movie"
-    },
-    {
-      "tmdbID": 1544163,
-      "mediaType": "movie"
-    },
-    {
-      "tmdbID": 1655419,
-      "mediaType": "movie"
-    },
-    {
-      "tmdbID": 1560309,
-      "mediaType": "movie"
-    }
-  ]
-},
+    "listTitle": "Cannes 2026 Official Selection",
+    "listSystemImage": "laurel.leading",
+    "listColorHex": "D4AF37",
+    "displayOrder": 10,
+    "movieTMDBIDs": [
+      {
+        "tmdbID": 1442669,
+        "mediaType": "movie"
+      },
+      {
+        "tmdbID": 1088548,
+        "mediaType": "movie"
+      },
+      {
+        "tmdbID": 1157869,
+        "mediaType": "movie"
+      },
+      {
+        "tmdbID": 1258181,
+        "mediaType": "movie"
+      },
+      {
+        "tmdbID": 1422041,
+        "mediaType": "movie"
+      },
+      {
+        "tmdbID": 1437981,
+        "mediaType": "movie"
+      },
+      {
+        "tmdbID": 1013822,
+        "mediaType": "movie"
+      },
+      {
+        "tmdbID": 1476614,
+        "mediaType": "movie"
+      },
+      {
+        "tmdbID": 1182935,
+        "mediaType": "movie"
+      },
+      {
+        "tmdbID": 1507877,
+        "mediaType": "movie"
+      },
+      {
+        "tmdbID": 1553969,
+        "mediaType": "movie"
+      },
+      {
+        "tmdbID": 1058424,
+        "mediaType": "movie"
+      },
+      {
+        "tmdbID": 1448971,
+        "mediaType": "movie"
+      },
+      {
+        "tmdbID": 1473148,
+        "mediaType": "movie"
+      },
+      {
+        "tmdbID": 1318864,
+        "mediaType": "movie"
+      },
+      {
+        "tmdbID": 1401459,
+        "mediaType": "movie"
+      },
+      {
+        "tmdbID": 1191818,
+        "mediaType": "movie"
+      },
+      {
+        "tmdbID": 1437925,
+        "mediaType": "movie"
+      },
+      {
+        "tmdbID": 1437696,
+        "mediaType": "movie"
+      },
+      {
+        "tmdbID": 1458914,
+        "mediaType": "movie"
+      },
+      {
+        "tmdbID": 1074074,
+        "mediaType": "movie"
+      },
+      {
+        "tmdbID": 848700,
+        "mediaType": "movie"
+      },
+      {
+        "tmdbID": 1240889,
+        "mediaType": "movie"
+      },
+      {
+        "tmdbID": 1661926,
+        "mediaType": "movie"
+      },
+      {
+        "tmdbID": 947493,
+        "mediaType": "movie"
+      },
+      {
+        "tmdbID": 1405200,
+        "mediaType": "movie"
+      },
+      {
+        "tmdbID": 1666683,
+        "mediaType": "movie"
+      },
+      {
+        "tmdbID": 1585239,
+        "mediaType": "movie"
+      },
+      {
+        "tmdbID": 1490241,
+        "mediaType": "movie"
+      },
+      {
+        "tmdbID": 1404582,
+        "mediaType": "movie"
+      },
+      {
+        "tmdbID": 1210268,
+        "mediaType": "movie"
+      },
+      {
+        "tmdbID": 1661932,
+        "mediaType": "movie"
+      },
+      {
+        "tmdbID": 1529849,
+        "mediaType": "movie"
+      },
+      {
+        "tmdbID": 1441105,
+        "mediaType": "movie"
+      },
+      {
+        "tmdbID": 1544163,
+        "mediaType": "movie"
+      },
+      {
+        "tmdbID": 1655419,
+        "mediaType": "movie"
+      },
+      {
+        "tmdbID": 1560309,
+        "mediaType": "movie"
+      }
+    ]
+  },
+  {
+    "listTitle": "Berlinale 2026 Selection",
+    "listSystemImage": "teddybear.fill",
+    "listColorHex": "E32636",
+    "displayOrder": 20,
+    "movieTMDBIDs": [
+      {
+        "tmdbID": 1315657,
+        "mediaType": "movie"
+      },
+      {
+        "tmdbID": 1401106,
+        "mediaType": "movie"
+      },
+      {
+        "tmdbID": 1279548,
+        "mediaType": "movie"
+      },
+      {
+        "tmdbID": 1130948,
+        "mediaType": "movie"
+      },
+      {
+        "tmdbID": 1176962,
+        "mediaType": "movie"
+      },
+      {
+        "tmdbID": 1152312,
+        "mediaType": "movie"
+      },
+      {
+        "tmdbID": 1299329,
+        "mediaType": "movie"
+      },
+      {
+        "tmdbID": 1279865,
+        "mediaType": "movie"
+      },
+      {
+        "tmdbID": 1119547,
+        "mediaType": "movie"
+      },
+      {
+        "tmdbID": 1135582,
+        "mediaType": "movie"
+      },
+      {
+        "tmdbID": 1001375,
+        "mediaType": "movie"
+      },
+      {
+        "tmdbID": 1299061,
+        "mediaType": "movie"
+      },
+      {
+        "tmdbID": 1378791,
+        "mediaType": "movie"
+      },
+      {
+        "tmdbID": 1437703,
+        "mediaType": "movie"
+      },
+      {
+        "tmdbID": 1527449,
+        "mediaType": "movie"
+      },
+      {
+        "tmdbID": 1021848,
+        "mediaType": "movie"
+      },
+      {
+        "tmdbID": 1426957,
+        "mediaType": "movie"
+      },
+      {
+        "tmdbID": 964849,
+        "mediaType": "movie"
+      },
+      {
+        "tmdbID": 1376457,
+        "mediaType": "movie"
+      },
+      {
+        "tmdbID": 884692,
+        "mediaType": "movie"
+      },
+      {
+        "tmdbID": 1476362,
+        "mediaType": "movie"
+      },
+      {
+        "tmdbID": 1619820,
+        "mediaType": "movie"
+      },
+      {
+        "tmdbID": 1619815,
+        "mediaType": "movie"
+      },
+      {
+        "tmdbID": 1425784,
+        "mediaType": "movie"
+      },
+      {
+        "tmdbID": 1241046,
+        "mediaType": "movie"
+      },
+      {
+        "tmdbID": 1280015,
+        "mediaType": "movie"
+      },
+      {
+        "tmdbID": 1599779,
+        "mediaType": "movie"
+      }
+    ]
+  },
   {
     "listTitle": "IMDb Top 100",
     "listSystemImage": "star.fill",
     "listColorHex": "F5C518",
-    "displayOrder": 1,
+    "displayOrder": 30,
     "movieTMDBIDs": [
       {
         "tmdbID": 278,
@@ -563,7 +679,7 @@
     "listTitle": "Empire Best TV Shows Of All Time",
     "listSystemImage": "tv.fill",
     "listColorHex": "00C73F",
-    "displayOrder": 2,
+    "displayOrder": 40,
     "movieTMDBIDs": [
       {
         "tmdbID": 1398,
@@ -963,7 +1079,7 @@
     "listTitle": "Rotten Tomatoes Top 100",
     "listSystemImage": "flame.fill",
     "listColorHex": "FA320A",
-    "displayOrder": 3,
+    "displayOrder": 50,
     "movieTMDBIDs": [
       {
         "tmdbID": 284054,
@@ -1367,7 +1483,7 @@
     "listTitle": "AFI's 100 Greatest American Films",
     "listSystemImage": "flag.fill",
     "listColorHex": "BF0A30",
-    "displayOrder": 4,
+    "displayOrder": 60,
     "movieTMDBIDs": [
       {
         "tmdbID": 15,
@@ -1731,7 +1847,7 @@
     "listTitle": "Sight & Sound Critics' Top 100",
     "listSystemImage": "eyeglasses",
     "listColorHex": "1A1A1A",
-    "displayOrder": 5,
+    "displayOrder": 70,
     "movieTMDBIDs": [
       {
         "tmdbID": 426,
@@ -2107,7 +2223,7 @@
     "listTitle": "100 Criterion Collection Films",
     "listSystemImage": "list.and.film",
     "listColorHex": "483D8B",
-    "displayOrder": 6,
+    "displayOrder": 80,
     "movieTMDBIDs": [
       {
         "tmdbID": 422,
@@ -2507,7 +2623,7 @@
     "listTitle": "Best Sci-Fi Movies of All Time",
     "listSystemImage": "testtube.2",
     "listColorHex": "0D8BF2",
-    "displayOrder": 7,
+    "displayOrder": 90,
     "movieTMDBIDs": [
       {
         "tmdbID": 19,
@@ -2715,7 +2831,7 @@
     "listTitle": "Top Psychological Thrillers",
     "listSystemImage": "lock.shield.fill",
     "listColorHex": "2C3E50",
-    "displayOrder": 8,
+    "displayOrder": 100,
     "movieTMDBIDs": [
       {
         "tmdbID": 274,
@@ -2923,7 +3039,7 @@
     "listTitle": "Must-Watch Horror Films",
     "listSystemImage": "drop.triangle",
     "listColorHex": "8B0000",
-    "displayOrder": 9,
+    "displayOrder": 110,
     "movieTMDBIDs": [
       {
         "tmdbID": 539,
@@ -3131,7 +3247,7 @@
     "listTitle": "Action & Adventure Hits",
     "listSystemImage": "figure.walk.motion",
     "listColorHex": "FF8C00",
-    "displayOrder": 10,
+    "displayOrder": 120,
     "movieTMDBIDs": [
       {
         "tmdbID": 76341,
@@ -3339,7 +3455,7 @@
     "listTitle": "Tearjerker Dramas",
     "listSystemImage": "theatermasks.fill",
     "listColorHex": "4682B4",
-    "displayOrder": 11,
+    "displayOrder": 130,
     "movieTMDBIDs": [
       {
         "tmdbID": 597,
@@ -3547,7 +3663,7 @@
     "listTitle": "Classic Romantic Comedies",
     "listSystemImage": "heart.fill",
     "listColorHex": "FF69B4",
-    "displayOrder": 12,
+    "displayOrder": 140,
     "movieTMDBIDs": [
       {
         "tmdbID": 3078,
@@ -3751,7 +3867,7 @@
     "listTitle": "Great Animated Films",
     "listSystemImage": "wand.and.stars",
     "listColorHex": "1E90FF",
-    "displayOrder": 13,
+    "displayOrder": 150,
     "movieTMDBIDs": [
       {
         "tmdbID": 19354,
@@ -3959,7 +4075,7 @@
     "listTitle": "Based on True Stories",
     "listSystemImage": "book.fill",
     "listColorHex": "A0522D",
-    "displayOrder": 14,
+    "displayOrder": 160,
     "movieTMDBIDs": [
       {
         "tmdbID": 769,
@@ -4167,7 +4283,7 @@
     "listTitle": "Top Book-to-Film Adaptations",
     "listSystemImage": "bookmark.fill",
     "listColorHex": "8B4513",
-    "displayOrder": 15,
+    "displayOrder": 170,
     "movieTMDBIDs": [
       {
         "tmdbID": 252,
@@ -4371,7 +4487,7 @@
     "listTitle": "Queer Cinema Essentials",
     "listSystemImage": "rainbow",
     "listColorHex": "F77F00",
-    "displayOrder": 16,
+    "displayOrder": 180,
     "movieTMDBIDs": [
       {
         "tmdbID": 9653,
@@ -4543,7 +4659,7 @@
     "listTitle": "Underrated Comedies",
     "listSystemImage": "face.smiling.fill",
     "listColorHex": "FFD166",
-    "displayOrder": 17,
+    "displayOrder": 190,
     "movieTMDBIDs": [
       {
         "tmdbID": 11066,
@@ -4711,7 +4827,7 @@
     "listTitle": "Best Documentaries",
     "listSystemImage": "doc.text.fill",
     "listColorHex": "4A7856",
-    "displayOrder": 18,
+    "displayOrder": 200,
     "movieTMDBIDs": [
       {
         "tmdbID": 42044,
@@ -4887,7 +5003,7 @@
     "listTitle": "Deeply Philosophical",
     "listSystemImage": "infinity",
     "listColorHex": "918B9F",
-    "displayOrder": 19,
+    "displayOrder": 210,
     "movieTMDBIDs": [
       {
         "tmdbID": 62,
@@ -5095,7 +5211,7 @@
     "listTitle": "Masterpieces of Japanese Cinema",
     "listSystemImage": "sun.max.fill",
     "listColorHex": "BC002D",
-    "displayOrder": 20,
+    "displayOrder": 220,
     "movieTMDBIDs": [
       {
         "tmdbID": 548,
@@ -5207,7 +5323,7 @@
     "listTitle": "Milestones of Turkish Cinema",
     "listSystemImage": "moon.stars.fill",
     "listColorHex": "E30A17",
-    "displayOrder": 21,
+    "displayOrder": 230,
     "movieTMDBIDs": [
       {
         "tmdbID": 270406,
@@ -5363,7 +5479,7 @@
     "listTitle": "Best of French Cinema",
     "listSystemImage": "camera.macro",
     "listColorHex": "0055A4",
-    "displayOrder": 22,
+    "displayOrder": 240,
     "movieTMDBIDs": [
       {
         "tmdbID": 776,
@@ -5571,7 +5687,7 @@
     "listTitle": "Bollywood Essentials",
     "listSystemImage": "music.mic",
     "listColorHex": "FF9933",
-    "displayOrder": 23,
+    "displayOrder": 250,
     "movieTMDBIDs": [
       {
         "tmdbID": 917,
@@ -5775,7 +5891,7 @@
     "listTitle": "Iranian New Wave",
     "listSystemImage": "video.badge.waveform",
     "listColorHex": "239F40",
-    "displayOrder": 24,
+    "displayOrder": 260,
     "movieTMDBIDs": [
       {
         "tmdbID": 149135,
@@ -5971,7 +6087,7 @@
     "listTitle": "Dark Scandinavian Dramas",
     "listSystemImage": "snowflake",
     "listColorHex": "0065BD",
-    "displayOrder": 25,
+    "displayOrder": 270,
     "movieTMDBIDs": [
       {
         "tmdbID": 103663,
@@ -6167,7 +6283,7 @@
     "listTitle": "Best of the 1990s",
     "listSystemImage": "dial.min.fill",
     "listColorHex": "9400D3",
-    "displayOrder": 26,
+    "displayOrder": 280,
     "movieTMDBIDs": [
       {
         "tmdbID": 769,
@@ -6375,7 +6491,7 @@
     "listTitle": "Cult Classics of the 1980s",
     "listSystemImage": "tv.and.hifispeaker.fill",
     "listColorHex": "FD5B78",
-    "displayOrder": 27,
+    "displayOrder": 290,
     "movieTMDBIDs": [
       {
         "tmdbID": 694,
@@ -6575,7 +6691,7 @@
     "listTitle": "Silent Era Classics",
     "listSystemImage": "film.circle.fill",
     "listColorHex": "A9A9A9",
-    "displayOrder": 28,
+    "displayOrder": 300,
     "movieTMDBIDs": [
       {
         "tmdbID": 5153,
@@ -6759,7 +6875,7 @@
     "listTitle": "Feminist Cinema",
     "listSystemImage": "hand.raised.fill",
     "listColorHex": "C48793",
-    "displayOrder": 29,
+    "displayOrder": 310,
     "movieTMDBIDs": [
       {
         "tmdbID": 49452,
@@ -6951,7 +7067,7 @@
     "listTitle": "Nouvelle Vague",
     "listSystemImage": "film.fill",
     "listColorHex": "7A8D8E",
-    "displayOrder": 30,
+    "displayOrder": 320,
     "movieTMDBIDs": [
       {
         "tmdbID": 110502,
@@ -7147,7 +7263,7 @@
     "listTitle": "Watch With Your Kids",
     "listSystemImage": "figure.and.child.holdinghands",
     "listColorHex": "2C3E50",
-    "displayOrder": 31,
+    "displayOrder": 330,
     "movieTMDBIDs": [
       {
         "tmdbID": 862,
@@ -7355,7 +7471,7 @@
     "listTitle": "Academy Award Winners - Best Picture",
     "listSystemImage": "trophy.fill",
     "listColorHex": "D4AF37",
-    "displayOrder": 32,
+    "displayOrder": 340,
     "movieTMDBIDs": [
       {
         "tmdbID": 3078,
@@ -7559,7 +7675,7 @@
     "listTitle": "Cannes Palme d'Or Winners",
     "listSystemImage": "camera.viewfinder",
     "listColorHex": "A67B5B",
-    "displayOrder": 33,
+    "displayOrder": 350,
     "movieTMDBIDs": [
       {
         "tmdbID": 851,
@@ -7767,7 +7883,7 @@
     "listTitle": "BAFTA Best Film Winners",
     "listSystemImage": "medal",
     "listColorHex": "34568B",
-    "displayOrder": 34,
+    "displayOrder": 360,
     "movieTMDBIDs": [
       {
         "tmdbID": 887,
@@ -7975,7 +8091,7 @@
     "listTitle": "Holiday & Christmas-Themed Movies",
     "listSystemImage": "gift.fill",
     "listColorHex": "C82D35",
-    "displayOrder": 35,
+    "displayOrder": 370,
     "movieTMDBIDs": [
       {
         "tmdbID": 1585,
@@ -8179,7 +8295,7 @@
     "listTitle": "Time Travel Movies",
     "listSystemImage": "hourglass",
     "listColorHex": "4A90E2",
-    "displayOrder": 36,
+    "displayOrder": 380,
     "movieTMDBIDs": [
       {
         "tmdbID": 105,
@@ -8379,7 +8495,7 @@
     "listTitle": "Dystopian & Post-Apocalyptic Worlds",
     "listSystemImage": "building.2.fill",
     "listColorHex": "696969",
-    "displayOrder": 37,
+    "displayOrder": 390,
     "movieTMDBIDs": [
       {
         "tmdbID": 19,
@@ -8587,7 +8703,7 @@
     "listTitle": "Hidden Gems of the 21st Century",
     "listSystemImage": "sparkle",
     "listColorHex": "20B2AA",
-    "displayOrder": 39,
+    "displayOrder": 400,
     "movieTMDBIDs": [
       {
         "tmdbID": 37181,
@@ -8791,7 +8907,7 @@
     "listTitle": "Post-2000 Indie Films",
     "listSystemImage": "guitars.fill",
     "listColorHex": "6A5ACD",
-    "displayOrder": 40,
+    "displayOrder": 410,
     "movieTMDBIDs": [
       {
         "tmdbID": 77,
@@ -8991,7 +9107,7 @@
     "listTitle": "Great War Epics",
     "listSystemImage": "shield.fill",
     "listColorHex": "8B0000",
-    "displayOrder": 41,
+    "displayOrder": 420,
     "movieTMDBIDs": [
       {
         "tmdbID": 947,
