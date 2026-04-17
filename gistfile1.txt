@@ -156,7 +156,7 @@
     ]
   },
   {
-    "listTitle": "Berlinale 2026 Selection",
+    "listTitle": "Berlinale 2026 Official Selection",
     "listSystemImage": "teddybear.fill",
     "listColorHex": "E32636",
     "displayOrder": 20,
